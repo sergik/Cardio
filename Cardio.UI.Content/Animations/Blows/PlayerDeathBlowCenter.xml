@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Animations.AnimatedObjectMetadata">
+    <Animations>
+      <Item>
+        <Name>Blow</Name>
+        <TextureName>Textures\Characters\Microb\Blow</TextureName>
+        <FramesPerRow>10</FramesPerRow>
+        <Interval>33</Interval>
+        <SourceOffset>0 0</SourceOffset>
+        <LastFrameHoldOnTime>90</LastFrameHoldOnTime>
+        <IsLooped>false</IsLooped>
+        <Size>0 0</Size>
+      </Item>
+    </Animations>
+    <Size>0 0</Size>
+    <CollisionRectangle>0 0 0 0</CollisionRectangle>
+  </Asset>
+</XnaContent>

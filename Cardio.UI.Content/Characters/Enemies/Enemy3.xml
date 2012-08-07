@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Characters.Ranged.RangeEnemyMetadata">
+    <MaxHealth>120</MaxHealth>
+    <ThinkCloudPath />
+    <SoundPath></SoundPath>
+    <ContentPath>Animations\Enemies\Enemy3</ContentPath>
+    <Size>0 0</Size>
+    <DeathAnimation>Effects\Blows\EnemyDeathBlow</DeathAnimation>
+    <DamageAnimation>Effects\Blows\EnemyDamageBlow</DamageAnimation>
+    <StopDistance>500</StopDistance>
+    <PlayerAttackPriority>3</PlayerAttackPriority>
+    <BiomaterialGeneratedInterval>8 10</BiomaterialGeneratedInterval>
+    <AttackInterval>3000</AttackInterval>
+    <AttackDamage>15</AttackDamage>
+    <BulletSpeed>250</BulletSpeed>
+    <AttackRange>800</AttackRange>
+    <BulletAssetName>Animations\Bullets\Bullet5</BulletAssetName>
+    <CircleScriptAssetName>Scripts\MoveEnemy3</CircleScriptAssetName>
+  </Asset>
+</XnaContent>

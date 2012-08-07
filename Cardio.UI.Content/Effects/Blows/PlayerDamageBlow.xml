@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Particles.BlowEffectMetadata">
+    <PartVelocity>10</PartVelocity>
+    <Law>0</Law>
+    <MovingPartsTextureName>Textures\Particles\Damage\sparkle</MovingPartsTextureName>
+    <MovingPartsFramesCount>8</MovingPartsFramesCount>
+    <MovingPartsDispertion>15</MovingPartsDispertion>
+    <MovingPartsIntervalBottom>1</MovingPartsIntervalBottom>
+    <MovingPartsIntervalTop>50</MovingPartsIntervalTop>
+    <MaxMovingParts>25</MaxMovingParts>
+    <MinMovingParts>5</MinMovingParts>
+    <AreMovingPartsLooped>false</AreMovingPartsLooped>
+    <CenterTextureName>Textures\Particles\Damage\bulletBlow</CenterTextureName>
+    <CenterFrameCount>8</CenterFrameCount>
+    <CenterInterval>15</CenterInterval>
+    <IsCenterLooped>false</IsCenterLooped>
+    <Type>PlayerDamageBlow</Type>
+  </Asset>
+</XnaContent>

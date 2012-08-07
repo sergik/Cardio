@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Particles.BlowEffectMetadata">
+    <PartVelocity>15</PartVelocity>
+    <Law>1</Law>
+    <MovingPartsTextureName>Textures\Particles\GreenyBlow</MovingPartsTextureName>
+    <MovingPartsFramesCount>10</MovingPartsFramesCount>
+    <MovingPartsDispertion>40</MovingPartsDispertion>
+    <MovingPartsIntervalBottom>10</MovingPartsIntervalBottom>
+    <MovingPartsIntervalTop>40</MovingPartsIntervalTop>
+    <MaxMovingParts>100</MaxMovingParts>
+    <MinMovingParts>60</MinMovingParts>
+    <AreMovingPartsLooped>false</AreMovingPartsLooped>
+    <CenterTextureName></CenterTextureName>
+    <CenterFrameCount>8</CenterFrameCount>
+    <CenterInterval>0</CenterInterval>
+    <IsCenterLooped>false</IsCenterLooped>
+    <Type>EnemyGenerationBlow</Type>
+  </Asset>
+</XnaContent>

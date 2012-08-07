@@ -1,0 +1,2571 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Levels\Level00.xml</Source>
+      <Name>Levels\Level00</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Levels\Level00.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Player\Nanobot.xml</Source>
+      <Name>Animations\Player\Nanobot</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Player\Nanobot.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Core\SpeechCloud.xml</Source>
+      <Name>Core\SpeechCloud</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Core\SpeechCloud.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Microb.xml</Source>
+      <Name>Animations\Microb</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Microb.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\AmorphicMicrob.xml</Source>
+      <Name>Animations\AmorphicMicrob</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\AmorphicMicrob.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Enemies\Microb.xml</Source>
+      <Name>Characters\Enemies\Microb</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Characters\Enemies\Microb.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Inventory\Medkit.xml</Source>
+      <Name>Animations\Inventory\Medkit</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Inventory\Medkit.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Default.xml</Source>
+      <Name>Backgrounds\Default</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Backgrounds\Default.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Enemies\AmorphicMicrob.xml</Source>
+      <Name>Characters\Enemies\AmorphicMicrob</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Characters\Enemies\AmorphicMicrob.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Enemies\Glowing.xml</Source>
+      <Name>Characters\Enemies\Glowing</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Characters\Enemies\Glowing.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Glowing.xml</Source>
+      <Name>Animations\Glowing</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Glowing.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Weapons\BaseWeapon.xml</Source>
+      <Name>Animations\Weapons\BaseWeapon</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Weapons\BaseWeapon.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\AttackBullet.xml</Source>
+      <Name>Animations\AttackBullet</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\AttackBullet.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Blows\Default.xml</Source>
+      <Name>Animations\Blows\Default</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Blows\Default.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\BaseWeapon.xml</Source>
+      <Name>Weapons\BaseWeapon</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Weapons\BaseWeapon.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Blows\TrombDeathBlow.xml</Source>
+      <Name>Effects\Blows\TrombDeathBlow</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Effects\Blows\TrombDeathBlow.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Blows\TrombDamageBlow.xml</Source>
+      <Name>Effects\Blows\TrombDamageBlow</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Effects\Blows\TrombDamageBlow.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Blows\PlayerDamageBlow.xml</Source>
+      <Name>Effects\Blows\PlayerDamageBlow</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Effects\Blows\PlayerDamageBlow.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Blows\EnemyDeathBlow.xml</Source>
+      <Name>Effects\Blows\EnemyDeathBlow</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Effects\Blows\EnemyDeathBlow.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Obstacles\Thrombus.xml</Source>
+      <Name>Animations\Obstacles\Thrombus</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Obstacles\Thrombus.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Obstacles\Thrombus.xml</Source>
+      <Name>Characters\Obstacles\Thrombus</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Characters\Obstacles\Thrombus.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\LevelsSelection.xml</Source>
+      <Name>Levels\LevelsSelection</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Levels\LevelsSelection.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Blows\EnemyDamageBlow.xml</Source>
+      <Name>Effects\Blows\EnemyDamageBlow</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Effects\Blows\EnemyDamageBlow.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bosses\Boss1.xml</Source>
+      <Name>Animations\Bosses\Boss1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bosses\Boss1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Bosses\Boss1.xml</Source>
+      <Name>Characters\Bosses\Boss1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Characters\Bosses\Boss1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Blows\BossDamageBlow.xml</Source>
+      <Name>Effects\Blows\BossDamageBlow</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Effects\Blows\BossDamageBlow.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Inventory\Biomaterial.xml</Source>
+      <Name>Animations\Inventory\Biomaterial</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Inventory\Biomaterial.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bosses\BossBullet1.xml</Source>
+      <Name>Animations\Bosses\BossBullet1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bosses\BossBullet1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Blows\EnemyGenerationBlow.xml</Source>
+      <Name>Effects\Blows\EnemyGenerationBlow</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Effects\Blows\EnemyGenerationBlow.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Shields\Shield1.xml</Source>
+      <Name>Shields\Shield1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Shields\Shield1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bodies\Body1.xml</Source>
+      <Name>Animations\Bodies\Body1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bodies\Body1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Bodies\Body1.xml</Source>
+      <Name>Bodies\Body1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Bodies\Body1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Shop\BaseWeaponItem.xml</Source>
+      <Name>Shop\BaseWeaponItem</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Shop\BaseWeaponItem.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Shop\BaseShield.xml</Source>
+      <Name>Shop\BaseShield</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Shop\BaseShield.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Shop\BaseBody.xml</Source>
+      <Name>Shop\BaseBody</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Shop\BaseBody.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Shop\LevelShop1.xml</Source>
+      <Name>Shop\LevelShop1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Shop\LevelShop1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Bodies\Body2.xml</Source>
+      <Name>Bodies\Body2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Bodies\Body2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bodies\Body2.xml</Source>
+      <Name>Animations\Bodies\Body2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bodies\Body2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bodies\Body3.xml</Source>
+      <Name>Animations\Bodies\Body3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bodies\Body3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bodies\Body4.xml</Source>
+      <Name>Animations\Bodies\Body4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bodies\Body4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bodies\Body5.xml</Source>
+      <Name>Animations\Bodies\Body5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bodies\Body5.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Bodies\Body3.xml</Source>
+      <Name>Bodies\Body3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Bodies\Body3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Bodies\Body4.xml</Source>
+      <Name>Bodies\Body4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Bodies\Body4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Bodies\Body5.xml</Source>
+      <Name>Bodies\Body5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Bodies\Body5.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Shields\Shield2.xml</Source>
+      <Name>Shields\Shield2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Shields\Shield2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Shields\Shield3.xml</Source>
+      <Name>Shields\Shield3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Shields\Shield3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Shields\Shield4.xml</Source>
+      <Name>Shields\Shield4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Shields\Shield4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Shields\Shield5.xml</Source>
+      <Name>Shields\Shield5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Shields\Shield5.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Weapons\Weapon1.xml</Source>
+      <Name>Animations\Weapons\Weapon1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Weapons\Weapon1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Weapons\Weapon2.xml</Source>
+      <Name>Animations\Weapons\Weapon2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Weapons\Weapon2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Weapons\Weapon3.xml</Source>
+      <Name>Animations\Weapons\Weapon3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Weapons\Weapon3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Weapons\Weapon4.xml</Source>
+      <Name>Animations\Weapons\Weapon4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Weapons\Weapon4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\Weapon1.xml</Source>
+      <Name>Weapons\Weapon1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Weapons\Weapon1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\Weapon2.xml</Source>
+      <Name>Weapons\Weapon2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Weapons\Weapon2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\Weapon3.xml</Source>
+      <Name>Weapons\Weapon3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Weapons\Weapon3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\Weapon4.xml</Source>
+      <Name>Weapons\Weapon4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Weapons\Weapon4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Enemies\Enemy1.xml</Source>
+      <Name>Animations\Enemies\Enemy1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Enemies\Enemy1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Enemies\Enemy1.xml</Source>
+      <Name>Characters\Enemies\Enemy1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Characters\Enemies\Enemy1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Enemies\Enemy2.xml</Source>
+      <Name>Characters\Enemies\Enemy2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Characters\Enemies\Enemy2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Enemies\Enemy2.xml</Source>
+      <Name>Animations\Enemies\Enemy2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Enemies\Enemy2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Enemies\Enemy3.xml</Source>
+      <Name>Animations\Enemies\Enemy3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Enemies\Enemy3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Enemies\Enemy4.xml</Source>
+      <Name>Animations\Enemies\Enemy4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Enemies\Enemy4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Enemies\Enemy3.xml</Source>
+      <Name>Characters\Enemies\Enemy3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Characters\Enemies\Enemy3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Enemies\Enemy4.xml</Source>
+      <Name>Characters\Enemies\Enemy4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Characters\Enemies\Enemy4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Obstacles\Thrombus1.xml</Source>
+      <Name>Animations\Obstacles\Thrombus1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Obstacles\Thrombus1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Obstacles\Thrombus2.xml</Source>
+      <Name>Animations\Obstacles\Thrombus2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Obstacles\Thrombus2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Obstacles\Thrombus1.xml</Source>
+      <Name>Characters\Obstacles\Thrombus1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Characters\Obstacles\Thrombus1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\Obstacles\Thrombus2.xml</Source>
+      <Name>Characters\Obstacles\Thrombus2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Characters\Obstacles\Thrombus2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bullets\Bullet1.xml</Source>
+      <Name>Animations\Bullets\Bullet1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bullets\Bullet1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bullets\Bullet2.xml</Source>
+      <Name>Animations\Bullets\Bullet2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bullets\Bullet2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bullets\Bullet3.xml</Source>
+      <Name>Animations\Bullets\Bullet3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bullets\Bullet3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bullets\Bullet5.xml</Source>
+      <Name>Animations\Bullets\Bullet5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bullets\Bullet5.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bullets\Bullet4.xml</Source>
+      <Name>Animations\Bullets\Bullet4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bullets\Bullet4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bullets\Bullet6.xml</Source>
+      <Name>Animations\Bullets\Bullet6</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bullets\Bullet6.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Story\GameStory.xml</Source>
+      <Name>Story\GameStory</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Story\GameStory.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\Level02.xml</Source>
+      <Name>Levels\Level02</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Levels\Level02.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\Level04.xml</Source>
+      <Name>Levels\Level04</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Levels\Level04.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\Level03.xml</Source>
+      <Name>Levels\Level03</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Levels\Level03.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\Level01.xml</Source>
+      <Name>Levels\Level01</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Levels\Level01.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Scripts\MoveEnemy1.xml</Source>
+      <Name>Scripts\MoveEnemy1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Scripts\MoveEnemy1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Scripts\MoveEnemy3.xml</Source>
+      <Name>Scripts\MoveEnemy3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Scripts\MoveEnemy3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Scripts\MoveEnemy4.xml</Source>
+      <Name>Scripts\MoveEnemy4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Scripts\MoveEnemy4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Scripts\MoveAmorphicMicrob.xml</Source>
+      <Name>Scripts\MoveAmorphicMicrob</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Scripts\MoveAmorphicMicrob.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Scripts\MoveMicrob.xml</Source>
+      <Name>Scripts\MoveMicrob</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Scripts\MoveMicrob.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Background1.xml</Source>
+      <Name>Backgrounds\Background1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Backgrounds\Background1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Background2.xml</Source>
+      <Name>Backgrounds\Background2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Backgrounds\Background2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Background3.xml</Source>
+      <Name>Backgrounds\Background3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Backgrounds\Background3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Background4.xml</Source>
+      <Name>Backgrounds\Background4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Backgrounds\Background4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Effects\ClickEffect.xml</Source>
+      <Name>Animations\Effects\ClickEffect</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Effects\ClickEffect.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Cursor.xml</Source>
+      <Name>Effects\Cursor</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Effects\Cursor.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bullets\Bullet10.xml</Source>
+      <Name>Animations\Bullets\Bullet10</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bullets\Bullet10.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bullets\Bullet7.xml</Source>
+      <Name>Animations\Bullets\Bullet7</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bullets\Bullet7.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bullets\Bullet8.xml</Source>
+      <Name>Animations\Bullets\Bullet8</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bullets\Bullet8.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bullets\Bullet9.xml</Source>
+      <Name>Animations\Bullets\Bullet9</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bullets\Bullet9.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bullets\Bullet11.xml</Source>
+      <Name>Animations\Bullets\Bullet11</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bullets\Bullet11.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bullets\Bullet12.xml</Source>
+      <Name>Animations\Bullets\Bullet12</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bullets\Bullet12.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bullets\Bullet13.xml</Source>
+      <Name>Animations\Bullets\Bullet13</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bullets\Bullet13.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Bullets\Bullet14.xml</Source>
+      <Name>Animations\Bullets\Bullet14</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Bullets\Bullet14.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Medcits\MedcitLevel2.xml</Source>
+      <Name>Inventory\Medcits\MedcitLevel2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Inventory\Medcits\MedcitLevel2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Medcits\MedcitLevel1.xml</Source>
+      <Name>Inventory\Medcits\MedcitLevel1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Inventory\Medcits\MedcitLevel1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Medcits\MedcitLevel3.xml</Source>
+      <Name>Inventory\Medcits\MedcitLevel3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Inventory\Medcits\MedcitLevel3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Medcits\MedcitLevel4.xml</Source>
+      <Name>Inventory\Medcits\MedcitLevel4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Inventory\Medcits\MedcitLevel4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Medcits\MedcitLevel5.xml</Source>
+      <Name>Inventory\Medcits\MedcitLevel5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Inventory\Medcits\MedcitLevel5.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Tablets\Tablet1.xml</Source>
+      <Name>Inventory\Tablets\Tablet1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Inventory\Tablets\Tablet1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Tablets\Tablet2.xml</Source>
+      <Name>Inventory\Tablets\Tablet2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Inventory\Tablets\Tablet2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Tablets\Tablet5.xml</Source>
+      <Name>Inventory\Tablets\Tablet5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Inventory\Tablets\Tablet5.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Tablets\Tablet4.xml</Source>
+      <Name>Inventory\Tablets\Tablet4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Inventory\Tablets\Tablet4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Tablets\Tablet3.xml</Source>
+      <Name>Inventory\Tablets\Tablet3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Inventory\Tablets\Tablet3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\Level05.xml</Source>
+      <Name>Levels\Level05</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Levels\Level05.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Spikes\Spike1.xml</Source>
+      <Name>Inventory\Spikes\Spike1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Inventory\Spikes\Spike1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Spikes\Spike1.xml</Source>
+      <Name>Animations\Spikes\Spike1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Spikes\Spike1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Spikes\Spike2.xml</Source>
+      <Name>Animations\Spikes\Spike2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Spikes\Spike2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Spikes\Spike4.xml</Source>
+      <Name>Animations\Spikes\Spike4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Spikes\Spike4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Spikes\Spike3.xml</Source>
+      <Name>Animations\Spikes\Spike3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Spikes\Spike3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Spikes\Spike2.xml</Source>
+      <Name>Inventory\Spikes\Spike2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Inventory\Spikes\Spike2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Spikes\Spike4.xml</Source>
+      <Name>Inventory\Spikes\Spike4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Inventory\Spikes\Spike4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Inventory\Spikes\Spike3.xml</Source>
+      <Name>Inventory\Spikes\Spike3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Inventory\Spikes\Spike3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Weapons\FrontWeapons\Weapon1.xml</Source>
+      <Name>Animations\Weapons\FrontWeapons\Weapon1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Weapons\FrontWeapons\Weapon1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\FrontWeapons\Weapon1.xml</Source>
+      <Name>Weapons\FrontWeapons\Weapon1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Weapons\FrontWeapons\Weapon1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\FrontWeapons\Weapon2.xml</Source>
+      <Name>Weapons\FrontWeapons\Weapon2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Weapons\FrontWeapons\Weapon2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\FrontWeapons\Weapon4.xml</Source>
+      <Name>Weapons\FrontWeapons\Weapon4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Weapons\FrontWeapons\Weapon4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\FrontWeapons\Weapon3.xml</Source>
+      <Name>Weapons\FrontWeapons\Weapon3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Weapons\FrontWeapons\Weapon3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Weapons\FrontWeapons\Weapon2.xml</Source>
+      <Name>Animations\Weapons\FrontWeapons\Weapon2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Weapons\FrontWeapons\Weapon2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Weapons\FrontWeapons\Weapon4.xml</Source>
+      <Name>Animations\Weapons\FrontWeapons\Weapon4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Weapons\FrontWeapons\Weapon4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Weapons\FrontWeapons\Weapon3.xml</Source>
+      <Name>Animations\Weapons\FrontWeapons\Weapon3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Weapons\FrontWeapons\Weapon3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Blows\PlayerDeathBlow.xml</Source>
+      <Name>Effects\Blows\PlayerDeathBlow</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Effects\Blows\PlayerDeathBlow.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Animations\Blows\PlayerDeathBlowCenter.xml</Source>
+      <Name>Animations\Blows\PlayerDeathBlowCenter</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Animations\Blows\PlayerDeathBlowCenter.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blank.png</Source>
+      <Name>Textures\Blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Blank.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\AmorphicMicrob\Default.png</Source>
+      <Name>Textures\Characters\AmorphicMicrob\Default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\AmorphicMicrob\Default.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Microb\Blow.png</Source>
+      <Name>Textures\Characters\Microb\Blow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Microb\Blow.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Microb\Default.png</Source>
+      <Name>Textures\Characters\Microb\Default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Microb\Default.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Bubbles.png</Source>
+      <Name>Textures\Characters\Nanobot\Bubbles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Bubbles.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Default.png</Source>
+      <Name>Textures\Characters\Nanobot\Default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Default.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Flash.png</Source>
+      <Name>Textures\Characters\Nanobot\Flash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Flash.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Heart.png</Source>
+      <Name>Textures\Heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Heart.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Screens\FadeScreen.png</Source>
+      <Name>Textures\Screens\FadeScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Screens\FadeScreen.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\AmorphicMicrob\Blow.png</Source>
+      <Name>Textures\Characters\AmorphicMicrob\Blow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\AmorphicMicrob\Blow.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Microb\AttackBullet.png</Source>
+      <Name>Textures\Characters\Microb\AttackBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Microb\AttackBullet.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Screens\Loading.png</Source>
+      <Name>Textures\Screens\Loading</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Screens\Loading.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Parallax\backGarbage.png</Source>
+      <Name>Textures\Backgrounds\Parallax\backGarbage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Backgrounds\Parallax\backGarbage.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Parallax\backLight.png</Source>
+      <Name>Textures\Backgrounds\Parallax\backLight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Backgrounds\Parallax\backLight.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Parallax\EritrocitesLayer1.png</Source>
+      <Name>Textures\Backgrounds\Parallax\EritrocitesLayer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Backgrounds\Parallax\EritrocitesLayer1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Parallax\EritrocitesLayer2.png</Source>
+      <Name>Textures\Backgrounds\Parallax\EritrocitesLayer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Backgrounds\Parallax\EritrocitesLayer2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Obstacles\Thromb\Default.png</Source>
+      <Name>Textures\Obstacles\Thromb\Default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Obstacles\Thromb\Default.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Damage\Default.png</Source>
+      <Name>Textures\Particles\Damage\Default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Damage\Default.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SpeechCloud.png</Source>
+      <Name>Textures\SpeechCloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\SpeechCloud.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\Medkit.png</Source>
+      <Name>Textures\Inventory\Medkit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\Medkit.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\MedkitWorld.png</Source>
+      <Name>Textures\Inventory\MedkitWorld</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\MedkitWorld.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\Health.png</Source>
+      <Name>Textures\UI\Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\UI\Health.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Damage\bulletBlow.png</Source>
+      <Name>Textures\Particles\Damage\bulletBlow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Damage\bulletBlow.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Damage\sparkle.png</Source>
+      <Name>Textures\Particles\Damage\sparkle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Damage\sparkle.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\HealthVessel.png</Source>
+      <Name>Textures\UI\HealthVessel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\UI\HealthVessel.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Glowing\Default.png</Source>
+      <Name>Textures\Characters\Glowing\Default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Glowing\Default.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\botHandActivated.png</Source>
+      <Name>Textures\Characters\Nanobot\botHandActivated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\botHandActivated.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\botHandActivating.png</Source>
+      <Name>Textures\Characters\Nanobot\botHandActivating</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\botHandActivating.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\botHandDeactivated.png</Source>
+      <Name>Textures\Characters\Nanobot\botHandDeactivated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\botHandDeactivated.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\botHandDeactivating.png</Source>
+      <Name>Textures\Characters\Nanobot\botHandDeactivating</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\botHandDeactivating.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\lamp.png</Source>
+      <Name>Textures\Characters\Nanobot\lamp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\lamp.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tutorial\Inventory.png</Source>
+      <Name>Textures\Tutorial\Inventory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Tutorial\Inventory.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Tutorial\Levels.png</Source>
+      <Name>Textures\Tutorial\Levels</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Tutorial\Levels.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Shield.png</Source>
+      <Name>Textures\Characters\Nanobot\Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Shield.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\Shield.png</Source>
+      <Name>Textures\Inventory\Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\Shield.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\Biomaterial.png</Source>
+      <Name>Textures\Inventory\Biomaterial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\Biomaterial.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\BiomaterialWorld.png</Source>
+      <Name>Textures\Inventory\BiomaterialWorld</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\BiomaterialWorld.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Heart02.png</Source>
+      <Name>Textures\Heart02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Heart02.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\BiomaterialBig.png</Source>
+      <Name>Textures\Inventory\BiomaterialBig</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\BiomaterialBig.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\BiomaterialInventory.png</Source>
+      <Name>Textures\Inventory\BiomaterialInventory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\BiomaterialInventory.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\BiomaterialMedium.png</Source>
+      <Name>Textures\Inventory\BiomaterialMedium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\BiomaterialMedium.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Tutorial.png</Source>
+      <Name>Fonts\Tutorial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Fonts\Tutorial.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Damage\DustCloud.png</Source>
+      <Name>Textures\Particles\Damage\DustCloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Damage\DustCloud.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\ButtonLeft.png</Source>
+      <Name>Textures\UI\ButtonLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\UI\ButtonLeft.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\ButtonLeftPressed.png</Source>
+      <Name>Textures\UI\ButtonLeftPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\UI\ButtonLeftPressed.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\ButtonRight.png</Source>
+      <Name>Textures\UI\ButtonRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\UI\ButtonRight.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\ButtonRightPressed.png</Source>
+      <Name>Textures\UI\ButtonRightPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\UI\ButtonRightPressed.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\MouseActiveLeft.png</Source>
+      <Name>Textures\UI\MouseActiveLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\UI\MouseActiveLeft.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\MouseActiveRight.png</Source>
+      <Name>Textures\UI\MouseActiveRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\UI\MouseActiveRight.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\PressSequenceBarEmpty.png</Source>
+      <Name>Textures\UI\PressSequenceBarEmpty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\UI\PressSequenceBarEmpty.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\PressSequenceBarFiller.png</Source>
+      <Name>Textures\UI\PressSequenceBarFiller</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\UI\PressSequenceBarFiller.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Damage\green_sparkle.png</Source>
+      <Name>Textures\Particles\Damage\green_sparkle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Damage\green_sparkle.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Bosses\Default.png</Source>
+      <Name>Textures\Characters\Bosses\Default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Bosses\Default.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Bosses\Boss1\Body.png</Source>
+      <Name>Textures\Characters\Bosses\Boss1\Body</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Bosses\Boss1\Body.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Bosses\Boss1\BodyPoints.png</Source>
+      <Name>Textures\Characters\Bosses\Boss1\BodyPoints</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Bosses\Boss1\BodyPoints.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Bosses\Boss1\Hands.png</Source>
+      <Name>Textures\Characters\Bosses\Boss1\Hands</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Bosses\Boss1\Hands.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Bosses\Boss1\Mouth.png</Source>
+      <Name>Textures\Characters\Bosses\Boss1\Mouth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Bosses\Boss1\Mouth.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Bosses\Boss1\BossBullet.png</Source>
+      <Name>Textures\Characters\Bosses\Boss1\BossBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Bosses\Boss1\BossBullet.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Bosses\Boss1\EnemyBorn.png</Source>
+      <Name>Textures\Characters\Bosses\Boss1\EnemyBorn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Bosses\Boss1\EnemyBorn.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\GreenyBlow.png</Source>
+      <Name>Textures\Particles\GreenyBlow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\GreenyBlow.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Borders\Border1.png</Source>
+      <Name>Textures\Borders\Border1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Borders\Border1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\Textbox.png</Source>
+      <Name>Textures\UI\Textbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\UI\Textbox.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\TextboxActive.png</Source>
+      <Name>Textures\UI\TextboxActive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\UI\TextboxActive.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Bodies\Body1.png</Source>
+      <Name>Textures\Characters\Nanobot\Bodies\Body1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Bodies\Body1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Bodies\Body2.png</Source>
+      <Name>Textures\Characters\Nanobot\Bodies\Body2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Bodies\Body2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Bodies\Body3.png</Source>
+      <Name>Textures\Characters\Nanobot\Bodies\Body3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Bodies\Body3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Bodies\Body4.png</Source>
+      <Name>Textures\Characters\Nanobot\Bodies\Body4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Bodies\Body4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Shields\Shield1.png</Source>
+      <Name>Textures\Characters\Nanobot\Shields\Shield1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Shields\Shield1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Shields\Shield2.png</Source>
+      <Name>Textures\Characters\Nanobot\Shields\Shield2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Shields\Shield2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Shields\Shield3.png</Source>
+      <Name>Textures\Characters\Nanobot\Shields\Shield3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Shields\Shield3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Shields\Shield4.png</Source>
+      <Name>Textures\Characters\Nanobot\Shields\Shield4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Shields\Shield4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Weapons\botHand1Activated.png</Source>
+      <Name>Textures\Characters\Nanobot\Weapons\botHand1Activated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Weapons\botHand1Activated.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Weapons\botHand1Deactivated.png</Source>
+      <Name>Textures\Characters\Nanobot\Weapons\botHand1Deactivated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Weapons\botHand1Deactivated.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Weapons\botHand2Activated.png</Source>
+      <Name>Textures\Characters\Nanobot\Weapons\botHand2Activated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Weapons\botHand2Activated.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Weapons\botHand2Deactivated.png</Source>
+      <Name>Textures\Characters\Nanobot\Weapons\botHand2Deactivated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Weapons\botHand2Deactivated.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Weapons\botHand3Activated.png</Source>
+      <Name>Textures\Characters\Nanobot\Weapons\botHand3Activated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Weapons\botHand3Activated.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Weapons\botHand3Deactivated.png</Source>
+      <Name>Textures\Characters\Nanobot\Weapons\botHand3Deactivated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Weapons\botHand3Deactivated.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Weapons\botHand4Activated.png</Source>
+      <Name>Textures\Characters\Nanobot\Weapons\botHand4Activated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Weapons\botHand4Activated.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Weapons\botHand4Deactivated.png</Source>
+      <Name>Textures\Characters\Nanobot\Weapons\botHand4Deactivated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Weapons\botHand4Deactivated.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemy1\Body.png</Source>
+      <Name>Textures\Characters\Enemy1\Body</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Enemy1\Body.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemy1\BodyPoint.png</Source>
+      <Name>Textures\Characters\Enemy1\BodyPoint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Enemy1\BodyPoint.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemy1\Mouth.png</Source>
+      <Name>Textures\Characters\Enemy1\Mouth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Enemy1\Mouth.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemy1\Tail.png</Source>
+      <Name>Textures\Characters\Enemy1\Tail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Enemy1\Tail.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemy2\Body.png</Source>
+      <Name>Textures\Characters\Enemy2\Body</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Enemy2\Body.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemy2\BodyPoints.png</Source>
+      <Name>Textures\Characters\Enemy2\BodyPoints</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Enemy2\BodyPoints.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemy2\Hands.png</Source>
+      <Name>Textures\Characters\Enemy2\Hands</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Enemy2\Hands.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemy3\Body.png</Source>
+      <Name>Textures\Characters\Enemy3\Body</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Enemy3\Body.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemy3\BodyPoints.png</Source>
+      <Name>Textures\Characters\Enemy3\BodyPoints</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Enemy3\BodyPoints.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemy3\Hands.png</Source>
+      <Name>Textures\Characters\Enemy3\Hands</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Enemy3\Hands.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemy4\Body.png</Source>
+      <Name>Textures\Characters\Enemy4\Body</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Enemy4\Body.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemy4\BodyPoints.png</Source>
+      <Name>Textures\Characters\Enemy4\BodyPoints</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Enemy4\BodyPoints.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Enemy4\Hands.png</Source>
+      <Name>Textures\Characters\Enemy4\Hands</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Enemy4\Hands.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Weapons\Flash1.png</Source>
+      <Name>Textures\Characters\Nanobot\Weapons\Flash1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Weapons\Flash1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Weapons\Flash2.png</Source>
+      <Name>Textures\Characters\Nanobot\Weapons\Flash2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Weapons\Flash2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Weapons\Flash3.png</Source>
+      <Name>Textures\Characters\Nanobot\Weapons\Flash3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Weapons\Flash3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Weapons\Flash4.png</Source>
+      <Name>Textures\Characters\Nanobot\Weapons\Flash4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Weapons\Flash4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Obstacles\Thromb1\tromb2.png</Source>
+      <Name>Textures\Obstacles\Thromb1\tromb2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Obstacles\Thromb1\tromb2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Obstacles\Thromb1\tromb2Death.png</Source>
+      <Name>Textures\Obstacles\Thromb1\tromb2Death</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Obstacles\Thromb1\tromb2Death.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Obstacles\Thromb2\tromb3.png</Source>
+      <Name>Textures\Obstacles\Thromb2\tromb3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Obstacles\Thromb2\tromb3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Obstacles\Thromb2\tromb3Death.png</Source>
+      <Name>Textures\Obstacles\Thromb2\tromb3Death</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Obstacles\Thromb2\tromb3Death.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Bullets\Bullet1.png</Source>
+      <Name>Textures\Particles\Bullets\Bullet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Bullets\Bullet1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Bullets\Bullet2.png</Source>
+      <Name>Textures\Particles\Bullets\Bullet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Bullets\Bullet2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Bullets\Bullet3.png</Source>
+      <Name>Textures\Particles\Bullets\Bullet3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Bullets\Bullet3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Bullets\Bullet4.png</Source>
+      <Name>Textures\Particles\Bullets\Bullet4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Bullets\Bullet4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Bullets\Bullet5.png</Source>
+      <Name>Textures\Particles\Bullets\Bullet5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Bullets\Bullet5.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Bullets\Bullet6.png</Source>
+      <Name>Textures\Particles\Bullets\Bullet6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Bullets\Bullet6.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\A.png</Source>
+      <Name>Textures\UI\A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\UI\A.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\S.png</Source>
+      <Name>Textures\UI\S</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\UI\S.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Parallax\backgroundSet1\Layer1.png</Source>
+      <Name>Textures\Backgrounds\Parallax\backgroundSet1\Layer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Backgrounds\Parallax\backgroundSet1\Layer1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Parallax\backgroundSet1\Layer2.png</Source>
+      <Name>Textures\Backgrounds\Parallax\backgroundSet1\Layer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Backgrounds\Parallax\backgroundSet1\Layer2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Parallax\backgroundSet1\levelWalls.png</Source>
+      <Name>Textures\Backgrounds\Parallax\backgroundSet1\levelWalls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Backgrounds\Parallax\backgroundSet1\levelWalls.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Parallax\backgroundSet2\Layer1.png</Source>
+      <Name>Textures\Backgrounds\Parallax\backgroundSet2\Layer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Backgrounds\Parallax\backgroundSet2\Layer1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Parallax\backgroundSet2\Layer2.png</Source>
+      <Name>Textures\Backgrounds\Parallax\backgroundSet2\Layer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Backgrounds\Parallax\backgroundSet2\Layer2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Parallax\backgroundSet2\Stripes.png</Source>
+      <Name>Textures\Backgrounds\Parallax\backgroundSet2\Stripes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Backgrounds\Parallax\backgroundSet2\Stripes.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Parallax\backgroundSet3\Layer1.png</Source>
+      <Name>Textures\Backgrounds\Parallax\backgroundSet3\Layer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Backgrounds\Parallax\backgroundSet3\Layer1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Parallax\backgroundSet3\Layer2.png</Source>
+      <Name>Textures\Backgrounds\Parallax\backgroundSet3\Layer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Backgrounds\Parallax\backgroundSet3\Layer2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Parallax\backgroundSet4\Layer1.png</Source>
+      <Name>Textures\Backgrounds\Parallax\backgroundSet4\Layer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Backgrounds\Parallax\backgroundSet4\Layer1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\Parallax\backgroundSet4\Layer2.png</Source>
+      <Name>Textures\Backgrounds\Parallax\backgroundSet4\Layer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Backgrounds\Parallax\backgroundSet4\Layer2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cursor.png</Source>
+      <Name>Textures\Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Cursor.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Borders\Border2.png</Source>
+      <Name>Textures\Borders\Border2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Borders\Border2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Bullets\Bullet10.png</Source>
+      <Name>Textures\Particles\Bullets\Bullet10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Bullets\Bullet10.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Bullets\Bullet7.png</Source>
+      <Name>Textures\Particles\Bullets\Bullet7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Bullets\Bullet7.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Bullets\Bullet8.png</Source>
+      <Name>Textures\Particles\Bullets\Bullet8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Bullets\Bullet8.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Bullets\Bullet9.png</Source>
+      <Name>Textures\Particles\Bullets\Bullet9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Bullets\Bullet9.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\backgroundTouch.png</Source>
+      <Name>Textures\Backgrounds\backgroundTouch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Backgrounds\backgroundTouch.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Bullets\Bullet11.png</Source>
+      <Name>Textures\Particles\Bullets\Bullet11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Bullets\Bullet11.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Bullets\Bullet12.png</Source>
+      <Name>Textures\Particles\Bullets\Bullet12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Bullets\Bullet12.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Bullets\Bullet13.png</Source>
+      <Name>Textures\Particles\Bullets\Bullet13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Bullets\Bullet13.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Particles\Bullets\Bullet14.png</Source>
+      <Name>Textures\Particles\Bullets\Bullet14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Particles\Bullets\Bullet14.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\Tablet1.png</Source>
+      <Name>Textures\Inventory\Tablet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\Tablet1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\medkit1.png</Source>
+      <Name>Textures\Inventory\medkit1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\medkit1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\medkit2.png</Source>
+      <Name>Textures\Inventory\medkit2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\medkit2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\medkit3.png</Source>
+      <Name>Textures\Inventory\medkit3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\medkit3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\medkit4.png</Source>
+      <Name>Textures\Inventory\medkit4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\medkit4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\medkit5.png</Source>
+      <Name>Textures\Inventory\medkit5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\medkit5.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\pill1.png</Source>
+      <Name>Textures\Inventory\pill1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\pill1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\pill2.png</Source>
+      <Name>Textures\Inventory\pill2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\pill2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\pill3.png</Source>
+      <Name>Textures\Inventory\pill3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\pill3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\pill4.png</Source>
+      <Name>Textures\Inventory\pill4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\pill4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\pill5.png</Source>
+      <Name>Textures\Inventory\pill5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\pill5.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Spikes\Spike1.png</Source>
+      <Name>Textures\Characters\Nanobot\Spikes\Spike1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Spikes\Spike1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Spikes\Spike2.png</Source>
+      <Name>Textures\Characters\Nanobot\Spikes\Spike2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Spikes\Spike2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Spikes\Spike3.png</Source>
+      <Name>Textures\Characters\Nanobot\Spikes\Spike3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Spikes\Spike3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Spikes\Spike4.png</Source>
+      <Name>Textures\Characters\Nanobot\Spikes\Spike4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Spikes\Spike4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Inventory\Spike.png</Source>
+      <Name>Textures\Inventory\Spike</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Inventory\Spike.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Weapons\SecondaryWeapon\SecondaryWeapon1.png</Source>
+      <Name>Textures\Characters\Nanobot\Weapons\SecondaryWeapon\SecondaryWeapon1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Weapons\SecondaryWeapon\SecondaryWeapon1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Weapons\SecondaryWeapon\SecondaryWeapon2.png</Source>
+      <Name>Textures\Characters\Nanobot\Weapons\SecondaryWeapon\SecondaryWeapon2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Weapons\SecondaryWeapon\SecondaryWeapon2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Weapons\SecondaryWeapon\SecondaryWeapon3.png</Source>
+      <Name>Textures\Characters\Nanobot\Weapons\SecondaryWeapon\SecondaryWeapon3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Weapons\SecondaryWeapon\SecondaryWeapon3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Weapons\SecondaryWeapon\SecondaryWeapon4.png</Source>
+      <Name>Textures\Characters\Nanobot\Weapons\SecondaryWeapon\SecondaryWeapon4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Weapons\SecondaryWeapon\SecondaryWeapon4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Obstacles\LittleThrombs\1.png</Source>
+      <Name>Textures\Obstacles\LittleThrombs\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Obstacles\LittleThrombs\1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Obstacles\LittleThrombs\2.png</Source>
+      <Name>Textures\Obstacles\LittleThrombs\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Obstacles\LittleThrombs\2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Obstacles\LittleThrombs\3.png</Source>
+      <Name>Textures\Obstacles\LittleThrombs\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Obstacles\LittleThrombs\3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Characters\Nanobot\Blow.png</Source>
+      <Name>Textures\Characters\Nanobot\Blow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\Textures\Characters\Nanobot\Blow.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <BuildSuccessful>false</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C5D6C0B1-6AC0-4B65-A1DB-AF59279C73EF}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\dev\Projects\Cardio\src\Cardio.UI.Content\</RootDirectory>
+      <LoggerRootDirectory>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\dev\Projects\Cardio\src\Cardio.Phone.UI\bin\Windows Phone\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\dev\Projects\Cardio\src\Cardio.Phone.Shared\bin\Windows Phone\Release\Cardio.Phone.Shared.dll</Key>
+        <Value>2012-03-13T17:31:13.9675726+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-08-06T12:36:07.869865+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Inventory.TabletMetadata">
+    <AssetName>Textures/Inventory/pill1</AssetName>
+    <Damage>50</Damage>
+    <ReuseTime>10000</ReuseTime>
+  </Asset>
+</XnaContent>

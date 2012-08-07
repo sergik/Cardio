@@ -1,0 +1,6 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Cardio" EntryPointType="Cardio.Phone.UI.CardioGame" RuntimeVersion="3.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Cardio" Source="Cardio.dll" />
+    <AssemblyPart x:Name="Cardio.Phone.Shared" Source="Cardio.Phone.Shared.dll" />
+  </Deployment.Parts>
+</Deployment>

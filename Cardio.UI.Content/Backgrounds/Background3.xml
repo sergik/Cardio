@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Backgrounds.BackgroundMetadata">
+    <Layers>
+      <Item>
+        <Depth>4000</Depth>
+        <Velocity>0</Velocity>
+        <TextureName>Textures\Backgrounds\Parallax\backLight</TextureName>
+      </Item>
+      <Item>
+        <Depth>3000</Depth>
+        <Velocity>5</Velocity>
+        <TextureName>Textures\Backgrounds\Parallax\backGarbage</TextureName>
+      </Item>
+      <Item>
+        <Depth>2000</Depth>
+        <Velocity>15</Velocity>
+        <TextureName>Textures\Backgrounds\Parallax\EritrocitesLayer2</TextureName>
+      </Item>
+      <Item>
+        <Depth>1700</Depth>
+        <Velocity>0</Velocity>
+        <TextureName>Textures\Backgrounds\Parallax\backgroundSet3\Layer2</TextureName>
+      </Item>
+      <Item>
+        <Depth>1500</Depth>
+        <Velocity>15</Velocity>
+        <TextureName>Textures\Backgrounds\Parallax\EritrocitesLayer1</TextureName>
+      </Item>
+      <Item>
+        <Depth>1000</Depth>
+        <Velocity>0</Velocity>
+        <TextureName>Textures\Backgrounds\Parallax\backgroundSet3\Layer1</TextureName>
+      </Item>
+    </Layers>
+  </Asset>
+</XnaContent>

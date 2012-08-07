@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="D03E885D-FE2F-44EB-8094-BD5EEB5B171A" ModuleId="Cardio.Phone.Shared" />
+  <Module PersistentId="DE19D5FE-A75A-4776-9AB6-3F6CE65E76C0" ModuleId="Cardio.Phone.UI" />
+</Modules>

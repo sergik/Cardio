@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Animations.AnimatedObjectMetadata">
+    <Animations>
+      <Item>
+        <Name>BodyPoints</Name>
+        <TextureName>Textures\Characters\Enemy2\BodyPoints</TextureName>
+        <FramesPerRow>8</FramesPerRow>
+        <Interval>66</Interval>
+        <SourceOffset>0 0</SourceOffset>
+        <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+        <IsLooped>true</IsLooped>
+        <Size>0 0</Size>
+      </Item>
+      <Item>
+        <Name>Body</Name>
+        <TextureName>Textures\Characters\Enemy2\Body</TextureName>
+        <FramesPerRow>8</FramesPerRow>
+        <Interval>66</Interval>
+        <SourceOffset>0 0</SourceOffset>
+        <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+        <IsLooped>true</IsLooped>
+        <Size>0 0</Size>
+      </Item>
+      <Item>
+        <Name>Hands</Name>
+        <TextureName>Textures\Characters\Enemy2\Hands</TextureName>
+        <FramesPerRow>8</FramesPerRow>
+        <Interval>66</Interval>
+        <SourceOffset>0 0</SourceOffset>
+        <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+        <IsLooped>true</IsLooped>
+        <Size>0 0</Size>
+      </Item>
+    </Animations>
+    <Size>0 0</Size>
+    <CollisionRectangle>0 0 0 0</CollisionRectangle>
+  </Asset>
+</XnaContent>

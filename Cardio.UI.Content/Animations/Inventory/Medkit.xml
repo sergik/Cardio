@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Animations.AnimatedObjectMetadata">
+    <Animations>
+      <Item>
+        <Name>Default</Name>
+        <TextureName>Textures\Inventory\MedkitWorld</TextureName>
+        <FramesPerRow>8</FramesPerRow>
+        <Interval>66</Interval>
+        <SourceOffset>0 0</SourceOffset>
+        <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+        <IsLooped>true</IsLooped>
+        <Size>48 48</Size>
+      </Item>
+    </Animations>
+    <Size>48 48</Size>
+    <CollisionRectangle>8 8 24 24</CollisionRectangle>
+  </Asset>
+</XnaContent>

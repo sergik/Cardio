@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Characters.Bosses.BossMetadata">
+    <MaxHealth>6000</MaxHealth>
+    <ThinkCloudPath />
+    <SoundPath></SoundPath>
+    <ContentPath>Animations\Bosses\Boss1</ContentPath>
+    <Size>0 0</Size>
+    <DeathAnimation>Effects\Blows\EnemyDeathBlow</DeathAnimation>
+    <DamageAnimation>Effects\Blows\BossDamageBlow</DamageAnimation>
+    <StopDistance>700</StopDistance>
+    <PlayerAttackPriority>5</PlayerAttackPriority>
+    <BiomaterialGeneratedInterval>8 12</BiomaterialGeneratedInterval>
+    <AttackDamage>100</AttackDamage>
+    <EnemyTypes>
+      <Item>AmorphicMicrob</Item>
+      <Item>Glowing</Item>
+    </EnemyTypes>
+    <EnemiesToGenerateMin>10</EnemiesToGenerateMin>
+    <EnemiesToGenerateMax>15</EnemiesToGenerateMax>
+    <GenerateEnemiesIntervalMin>20</GenerateEnemiesIntervalMin>
+    <GenerateEnemiesIntervalMax>25</GenerateEnemiesIntervalMax>
+    <AttackRange>1000</AttackRange>
+    <AttackInterval>3000</AttackInterval>
+    <BulletSpeed>200</BulletSpeed>
+    <AttackRateMin>6000</AttackRateMin>
+    <AttackRateMax>10000</AttackRateMax>
+    <BulletContentPath>Animations\Bosses\BossBullet1</BulletContentPath>
+  </Asset>
+</XnaContent>

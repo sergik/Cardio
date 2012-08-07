@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Inventory.MedcitMetadata">
+    <AssetName>Textures/Inventory/medkit1</AssetName>
+    <HealingValue>50</HealingValue>
+    <ReuseTime>10000</ReuseTime>
+  </Asset>
+</XnaContent>

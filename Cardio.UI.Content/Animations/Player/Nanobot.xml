@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Animations.AnimatedObjectMetadata">
+      <Animations>
+        <Item>
+          <Name>Bubbles</Name>
+          <TextureName>Textures\Characters\Nanobot\Bubbles</TextureName>
+          <FramesPerRow>8</FramesPerRow>
+          <Interval>66</Interval>
+          <SourceOffset>-35 -10</SourceOffset>
+          <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+          <IsLooped>true</IsLooped>
+          <Size>0 0</Size>
+        </Item>
+        <Item>
+          <Name>lamp</Name>
+          <TextureName>Textures\Characters\Nanobot\lamp</TextureName>
+          <FramesPerRow>8</FramesPerRow>
+          <Interval>66</Interval>
+          <SourceOffset>-12 -25</SourceOffset>
+          <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+          <IsLooped>true</IsLooped>
+          <Size>0 0</Size>
+        </Item>
+    </Animations>
+    <Size>0 0</Size>
+    <CollisionRectangle>25 20 20 30</CollisionRectangle>
+  </Asset>
+</XnaContent>

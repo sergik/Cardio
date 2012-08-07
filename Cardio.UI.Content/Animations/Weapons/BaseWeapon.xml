@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Animations.AnimatedObjectMetadata">
+    <Animations>
+      <Item>
+        <Name>Flash</Name>
+        <TextureName>Textures\Characters\Nanobot\Flash</TextureName>
+        <FramesPerRow>8</FramesPerRow>
+        <Interval>66</Interval>
+        <SourceOffset>35 10</SourceOffset>
+        <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+        <IsLooped>true</IsLooped>
+        <Size>0 0</Size>
+      </Item>
+      <Item>
+        <Name>botHandDeactivated</Name>
+        <TextureName>Textures\Characters\Nanobot\botHandDeactivated</TextureName>
+        <FramesPerRow>1</FramesPerRow>
+        <Interval>66</Interval>
+        <SourceOffset>25 30</SourceOffset>
+        <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+        <IsLooped>true</IsLooped>
+        <Size>0 0</Size>
+      </Item>
+      <Item>
+        <Name>botHandActivated</Name>
+        <TextureName>Textures\Characters\Nanobot\botHandActivated</TextureName>
+        <FramesPerRow>1</FramesPerRow>
+        <Interval>66</Interval>
+        <SourceOffset>25 30</SourceOffset>
+        <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+        <IsLooped>true</IsLooped>
+        <Size>0 0</Size>
+      </Item>
+    </Animations>
+    <Size>0 0</Size>
+    <CollisionRectangle>0 0 0 0</CollisionRectangle>
+  </Asset>
+</XnaContent>

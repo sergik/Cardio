@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Animations.AnimatedObjectMetadata">
+    <Animations>
+      <Item>
+        <Name>Hands</Name>
+        <TextureName>Textures\Characters\Bosses\Boss1\Hands</TextureName>
+        <FramesPerRow>8</FramesPerRow>
+        <Interval>66</Interval>
+        <SourceOffset>0 0</SourceOffset>
+        <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+        <IsLooped>true</IsLooped>
+        <Size>500 500</Size>
+      </Item>
+      <Item>
+        <Name>BodyPoints</Name>
+        <TextureName>Textures\Characters\Bosses\Boss1\BodyPoints</TextureName>
+        <FramesPerRow>8</FramesPerRow>
+        <Interval>66</Interval>
+        <SourceOffset>0 0</SourceOffset>
+        <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+        <IsLooped>true</IsLooped>
+        <Size>500 500</Size>
+      </Item>
+      <Item>
+        <Name>Default</Name>
+        <TextureName>Textures\Characters\Bosses\Boss1\Body</TextureName>
+        <FramesPerRow>8</FramesPerRow>
+        <Interval>66</Interval>
+        <SourceOffset>0 0</SourceOffset>
+        <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+        <IsLooped>true</IsLooped>
+        <Size>500 500</Size>
+      </Item>
+      <Item>
+        <Name>Mouth</Name>
+        <TextureName>Textures\Characters\Bosses\Boss1\Mouth</TextureName>
+        <FramesPerRow>8</FramesPerRow>
+        <Interval>66</Interval>
+        <SourceOffset>0 0</SourceOffset>
+        <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+        <IsLooped>true</IsLooped>
+        <Size>500 500</Size>
+      </Item>
+      <Item>
+        <Name>EnemyBorn</Name>
+        <TextureName>Textures\Characters\Bosses\Boss1\EnemyBorn</TextureName>
+        <FramesPerRow>8</FramesPerRow>
+        <Interval>200</Interval>
+        <SourceOffset>0 0</SourceOffset>
+        <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+        <IsLooped>true</IsLooped>
+        <Size>500 500</Size>
+      </Item>
+      <Item>
+        <Name>TopAttackPreparation</Name>
+        <TextureName>Textures\Characters\AmorphicMicrob\Blow</TextureName>
+        <FramesPerRow>10</FramesPerRow>
+        <Interval>66</Interval>
+        <SourceOffset>-50 50</SourceOffset>
+        <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+        <IsLooped>true</IsLooped>
+        <Size>0 0</Size>
+      </Item>
+      <Item>
+        <Name>MidAttackPreparation</Name>
+        <TextureName>Textures\Characters\AmorphicMicrob\Blow</TextureName>
+        <FramesPerRow>10</FramesPerRow>
+        <Interval>66</Interval>
+        <SourceOffset>25 200</SourceOffset>
+        <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+        <IsLooped>true</IsLooped>
+        <Size>0 0</Size>
+      </Item>
+      <Item>
+        <Name>BottomAttackPreparation</Name>
+        <TextureName>Textures\Characters\AmorphicMicrob\Blow</TextureName>
+        <FramesPerRow>10</FramesPerRow>
+        <Interval>66</Interval>
+        <SourceOffset>-50 325</SourceOffset>
+        <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+        <IsLooped>true</IsLooped>
+        <Size>0 0</Size>
+      </Item>
+    </Animations>
+    <Size>0 0</Size>
+    <CollisionRectangle>0 0 0 0</CollisionRectangle>
+  </Asset>
+</XnaContent>

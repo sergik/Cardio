@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Characters.Ranged.RangeEnemyMetadata">
+    <MaxHealth>36</MaxHealth>
+    <ThinkCloudPath />
+    <SoundPath></SoundPath>
+    <ContentPath>Animations/AmorphicMicrob</ContentPath>
+    <Size>0 0</Size>
+    <DeathAnimation>Effects\Blows\EnemyDeathBlow</DeathAnimation>
+    <DamageAnimation>Effects\Blows\EnemyDamageBlow</DamageAnimation>
+    <StopDistance>500</StopDistance>
+    <PlayerAttackPriority>2</PlayerAttackPriority>
+    <BiomaterialGeneratedInterval>1 2</BiomaterialGeneratedInterval>
+    <AttackInterval>2000</AttackInterval>
+    <AttackDamage>5</AttackDamage>
+    <BulletSpeed>200</BulletSpeed>
+    <AttackRange>600</AttackRange>
+    <BulletAssetName>Animations\Bullets\Bullet2</BulletAssetName> 
+    <CircleScriptAssetName>Scripts\MoveAmorphicMicrob</CircleScriptAssetName>
+  </Asset>
+</XnaContent>

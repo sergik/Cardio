@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="Cardio.Phone.Shared.Animations.AnimatedObjectMetadata">
+  <Animations>
+    <Item>
+      <Name>Default</Name>
+      <TextureName>Textures\Characters\Nanobot\Bodies\Body1</TextureName>
+      <FramesPerRow>1</FramesPerRow>
+      <Interval>66</Interval>
+      <SourceOffset>0 0</SourceOffset>
+      <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+      <IsLooped>true</IsLooped>
+      <Size>0 0</Size>
+    </Item>
+    </Animations>
+    <Size>0 0</Size>
+    <CollisionRectangle>0 0 0 0</CollisionRectangle>
+  </Asset>
+</XnaContent>

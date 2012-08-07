@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="Cardio.Phone.Shared.Shields.ShieldMetadata">
+    <MaxShieldRadius>72</MaxShieldRadius>
+    <ShieldEfficiency>0.4</ShieldEfficiency>
+    <ShieldTexturePath>Textures\Characters\Nanobot\Shields\Shield3</ShieldTexturePath>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="Cardio.Phone.Shared.Components.ShopItemMetadata">
+    <Price>30</Price>
+    <ItemTitle>base nanobot gun</ItemTitle>
+    <UpgradeName>Weapons\BaseWeapon</UpgradeName>
+  </Asset>
+</XnaContent>

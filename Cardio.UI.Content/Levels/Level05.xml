@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Levels.LevelMetadata">
+    <Name>Virus-y</Name>
+    <Background>Backgrounds\Background4</Background>
+    <Melody>Sounds\Melody02</Melody>
+    <Distance>4400</Distance>
+    <Enemies>
+  
+    </Enemies>
+    
+    <Obstacles>
+    </Obstacles>
+
+    <Bosses>
+      <Item>
+        <Position>3350 -200</Position>
+        <EnemyType>Boss1</EnemyType>
+      </Item>
+    </Bosses>
+
+    <Messages>
+      <Item>
+        <Text>ARRRRRRRRRRRRRR!</Text>
+        <Position>1350 -100</Position>
+      </Item>
+      <Item>
+        <Text>UUUUUUUUUUUUUU!!!</Text>
+        <Position>2350 -100</Position>
+      </Item>
+    </Messages>
+  </Asset>
+</XnaContent>

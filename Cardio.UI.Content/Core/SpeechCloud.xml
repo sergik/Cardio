@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="Cardio.Phone.Shared.Animations.AnimationMetadata">
+    <Name>SpeechCloud</Name>
+    <TextureName>Textures\SpeechCloud</TextureName>
+    <FramesPerRow>4</FramesPerRow>
+    <Interval>60</Interval>
+    <SourceOffset>0 0</SourceOffset>
+    <LastFrameHoldOnTime>1800</LastFrameHoldOnTime>
+    <IsLooped>false</IsLooped>
+    <Size>0 0</Size>
+  </Asset>
+</XnaContent>

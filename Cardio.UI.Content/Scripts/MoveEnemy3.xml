@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="Cardio.Phone.Shared.Scripts.CircleScriptMetadata">
+    <Radius>120</Radius>
+    <Speed>1000</Speed>
+  </Asset>
+</XnaContent>

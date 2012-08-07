@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="Cardio.Phone.Shared.Characters.Player.Spikes.SpikeMetadata">
+    <AssetName>Animations/Spikes/Spike4</AssetName>
+    <Position>-5 -15</Position>
+    <ActiveTime>6000</ActiveTime>
+    <ReuseTime>10000</ReuseTime>
+  </Asset>
+</XnaContent>

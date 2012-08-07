@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Animations.AnimatedObjectMetadata">
+    <Animations>
+      <Item>
+        <Name>Default</Name>
+        <TextureName>Textures\Characters\Glowing\Default</TextureName>
+        <FramesPerRow>8</FramesPerRow>
+        <Interval>24</Interval>
+        <SourceOffset>0 0</SourceOffset>
+        <LastFrameHoldOnTime>0</LastFrameHoldOnTime>
+        <IsLooped>true</IsLooped>
+        <Size>0 0</Size>
+      </Item>
+    </Animations>
+    <Size>0 0</Size>
+    <CollisionRectangle>16 16 18 18</CollisionRectangle>
+  </Asset>
+</XnaContent>

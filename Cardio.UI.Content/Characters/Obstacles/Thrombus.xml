@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="Cardio.Phone.Shared.Thrombi.ThrombusMetadata">
+    <MaxHealth>160</MaxHealth>
+    <ThinkCloudPath />
+    <SoundPath></SoundPath>
+    <ContentPath>Animations\Obstacles\Thrombus</ContentPath>
+    <Size>0 0</Size>
+    <DeathAnimation>Effects\Blows\TrombDeathBlow</DeathAnimation>
+    <DamageAnimation>Effects\Blows\TrombDamageBlow</DamageAnimation>
+    <StopDistance>400</StopDistance>
+    <PlayerAttackPriority>1</PlayerAttackPriority>
+    <BiomaterialGeneratedInterval>5 10</BiomaterialGeneratedInterval>
+  </Asset>
+</XnaContent>

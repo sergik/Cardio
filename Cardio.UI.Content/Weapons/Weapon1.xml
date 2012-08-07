@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Weapons.WeaponMetadata">
+    <Name>Weapon1</Name>
+    <AssetName>Animations\Weapons\Weapon1</AssetName>
+    <Damage>10</Damage>
+    <TargetOffset>5 3</TargetOffset>
+    <BulletAssetName>Animations\Bullets\Bullet11</BulletAssetName>
+    <AtackRate>150</AtackRate>
+    <BulletSpeed>12</BulletSpeed>
+    <BulletGenerationPosition>48 50</BulletGenerationPosition>
+  </Asset>
+</XnaContent>

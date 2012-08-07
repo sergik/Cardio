@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="Cardio.Phone.Shared.Levels.LevelSelectorMetadata">
+    <ColumnsCount>3</ColumnsCount>
+    <ThumbnailHeight>120</ThumbnailHeight>
+    <ThumbnailWidth>180</ThumbnailWidth>
+    <Levels>
+      <Item>
+        <LevelName>Tutorial</LevelName>
+        <LevelPreviewImage>Textures\Levels\1</LevelPreviewImage>
+      </Item>
+      <Item>
+        <LevelName>Symptoms</LevelName>
+        <LevelPreviewImage>Textures\Levels\2</LevelPreviewImage>
+      </Item>
+      <Item>
+        <LevelName>Treatment</LevelName>
+        <LevelPreviewImage>Textures\Levels\3</LevelPreviewImage>
+      </Item>
+      <Item>
+        <LevelName>Disease</LevelName>
+        <LevelPreviewImage>Textures\Levels\4</LevelPreviewImage>
+      </Item>
+      <Item>
+        <LevelName>Virus-x</LevelName>
+        <LevelPreviewImage>Textures\Levels\5</LevelPreviewImage>
+      </Item>
+      <Item>
+        <LevelName>Virus-y</LevelName>
+        <LevelPreviewImage>Textures\Levels\6</LevelPreviewImage>
+      </Item>
+    </Levels>
+  </Asset>
+</XnaContent>

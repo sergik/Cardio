@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Levels.GameStoryMetadata">
+    <Levels>
+      <Item>
+        <Name>Tutorial</Name>
+        <LevelAsset>Levels\Level00</LevelAsset>
+      </Item>
+      <Item>
+        <Name>Symptoms</Name>
+        <LevelAsset>Levels\Level01</LevelAsset>
+      </Item>
+      <Item>
+        <Name>Treatment</Name>
+        <LevelAsset>Levels\Level02</LevelAsset>
+      </Item>
+      <Item>
+        <Name>Disease</Name>
+        <LevelAsset>Levels\Level03</LevelAsset>
+      </Item>
+      <Item>
+        <Name>Virus-x</Name>
+        <LevelAsset>Levels\Level04</LevelAsset>
+      </Item>
+      <Item>
+        <Name>Virus-y</Name>
+        <LevelAsset>Levels\Level05</LevelAsset>
+      </Item>
+    </Levels>
+  </Asset>
+</XnaContent>

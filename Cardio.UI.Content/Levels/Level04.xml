@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Levels.LevelMetadata">
+    <Name>Virus-x</Name>
+    <Background>Backgrounds\Background4</Background>
+    <Melody>Sounds\Melody02</Melody>
+    <Distance>16000</Distance>
+    <Enemies>
+      
+      <!--Первый пак-->
+      <Item>
+        <Position>1200 80</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+      <Item>
+        <Position>1200 0</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+      <Item>
+        <Position>1200 -80</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+
+      <!--Второй пак-->
+
+      <Item>
+        <Position>2200 20</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>2200 60</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>2200 100</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>2200 140</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>2200 180</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>2500 -20</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>2500 -60</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>2500 -100</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>2500 -140</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>2500 -180</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      
+      <!--Третий пак-->
+
+      <Item>
+        <Position>3200 0</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+      <Item>
+        <Position>3200 -80</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+      <Item>
+        <Position>3200 -160</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>3500 0</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+      <Item>
+        <Position>3500 80</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+      <Item>
+        <Position>3500 160</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>      
+      
+      <!--Четвертый пак-->
+
+      <Item>
+        <Position>5000 -160</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      <Item>
+        <Position>5100 -120</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      <Item>
+        <Position>5200 -80</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      <Item>
+        <Position>5300 -40</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>5500 160</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      <Item>
+        <Position>5600 120</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      <Item>
+        <Position>5700 80</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      <Item>
+        <Position>5800 40</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      
+
+      <!--Пятый пак-->
+
+      <Item>
+        <Position>7500 -80</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>7550 -80</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>7600 -80</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>7650 -80</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>7700 -80</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>7800 80</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>7850 80</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>7900 80</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>7950 80</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>8000 80</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      
+      <!--Шестой пак-->
+      <Item>
+        <Position>9300 160</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      <Item>
+        <Position>9450 120</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      <Item>
+        <Position>9300 80</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>9500 -160</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      <Item>
+        <Position>9650 -120</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      <Item>
+        <Position>9500 -80</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>9700 -40</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      <Item>
+        <Position>9850 0</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      <Item>
+        <Position>9700 40</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+
+      <!--Седьмой пак-->
+
+      <Item>
+        <Position>11000 -200</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11050 -160</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11100 -120</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11150 -80</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11200 -40</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11250 0</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11300 40</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11350 80</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11400 120</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11450 160</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11500 200</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      
+      
+      <!--Восьмой пак-->
+
+      <Item>
+        <Position>12500 80</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+      <Item>
+        <Position>12500 0</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+      <Item>
+        <Position>12500 -80</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+
+      <!--Девятый пак-->
+      <Item>
+        <Position>13200 20</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>13250 60</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>13300 100</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>13350 140</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>13400 180</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>13600 -20</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>13650 -60</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>13700 -100</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>13750 -140</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      <Item>
+        <Position>13800 -180</Position>
+        <EnemyType>Enemy4</EnemyType>
+      </Item>
+      
+      <!--Десятый пак-->
+
+      <Item>
+        <Position>14500 0</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      <Item>
+        <Position>14600 0</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      <Item>
+        <Position>14700 0</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      <Item>
+        <Position>14800 -100</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      <Item>
+        <Position>14900 100</Position>
+        <EnemyType>Enemy2</EnemyType>
+      </Item>
+      
+       </Enemies>
+    
+    <Obstacles>
+      <Item>
+        <Position>4000 -90</Position>
+        <EnemyType>Thrombus1</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>6500 -90</Position>
+        <EnemyType>Thrombus1</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>8500 -90</Position>
+        <EnemyType>Thrombus2</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>10500 -90</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>15500 -90</Position>
+        <EnemyType>Thrombus2</EnemyType>
+      </Item>
+      
+
+    </Obstacles>
+
+    <Bosses>
+    </Bosses>
+
+    <Messages>
+    </Messages>
+  </Asset>
+</XnaContent>

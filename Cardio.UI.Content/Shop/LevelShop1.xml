@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="Cardio.Phone.Shared.Components.LevelShopMetadata">
+    <Guns>
+      <Item>
+        <Price>50</Price>
+        <ItemTitle>Weak purifier</ItemTitle>
+        <UpgradeName>Weapons\Weapon1</UpgradeName>
+      </Item>
+      <Item>
+        <Price>100</Price>
+        <ItemTitle>Average purifier</ItemTitle>
+        <UpgradeName>Weapons\Weapon2</UpgradeName>
+      </Item>
+      <Item>
+        <Price>200</Price>
+        <ItemTitle>Strong purifier</ItemTitle>
+        <UpgradeName>Weapons\Weapon3</UpgradeName>
+      </Item>
+      <Item>
+        <Price>300</Price>
+        <ItemTitle>Superior purifier</ItemTitle>
+        <UpgradeName>Weapons\Weapon4</UpgradeName>
+      </Item>
+    </Guns>
+    <Shields>
+      <Item>
+        <Price>50</Price>
+        <ItemTitle>Weak shield</ItemTitle>
+        <UpgradeName>Shields\Shield2</UpgradeName>
+      </Item>
+      <Item>
+        <Price>60</Price>
+        <ItemTitle>Average shield</ItemTitle>
+        <UpgradeName>Shields\Shield3</UpgradeName>
+      </Item>
+      <Item>
+        <Price>80</Price>
+        <ItemTitle>Strong shield</ItemTitle>
+        <UpgradeName>Shields\Shield4</UpgradeName>
+      </Item>
+      <Item>
+        <Price>120</Price>
+        <ItemTitle>Superior shield</ItemTitle>
+        <UpgradeName>Shields\Shield5</UpgradeName>
+      </Item>
+    </Shields>
+    <Bodies>
+      <Item>
+        <Price>50</Price>
+        <ItemTitle>Weak body</ItemTitle>
+        <UpgradeName>Bodies\Body2</UpgradeName>
+      </Item>
+      <Item>
+        <Price>100</Price>
+        <ItemTitle>Average body</ItemTitle>
+        <UpgradeName>Bodies\Body3</UpgradeName>
+      </Item>
+      <Item>
+        <Price>150</Price>
+        <ItemTitle>Strong body</ItemTitle>
+        <UpgradeName>Bodies\Body4</UpgradeName>
+      </Item>
+      <Item>
+        <Price>200</Price>
+        <ItemTitle>Superior body</ItemTitle>
+        <UpgradeName>Bodies\Body5</UpgradeName>
+      </Item>
+    </Bodies>
+    <Medcits>
+      <Item>
+        <Price>50</Price>
+        <ItemTitle>Small Medcit</ItemTitle>
+        <UpgradeName>Inventory\Medcits\MedcitLevel2</UpgradeName>
+      </Item>
+      <Item>
+        <Price>100</Price>
+        <ItemTitle>Normal Medcit</ItemTitle>
+        <UpgradeName>Inventory\Medcits\MedcitLevel3</UpgradeName>
+      </Item>
+      <Item>
+        <Price>200</Price>
+        <ItemTitle>Big Medcit</ItemTitle>
+        <UpgradeName>Inventory\Medcits\MedcitLevel4</UpgradeName>
+      </Item>
+      <Item>
+        <Price>300</Price>
+        <ItemTitle>Huge Medcit</ItemTitle>
+        <UpgradeName>Inventory\Medcits\MedcitLevel5</UpgradeName>
+      </Item>
+    </Medcits>
+    <Tablets>
+      <Item>
+        <Price>50</Price>
+        <ItemTitle>Penicillinum</ItemTitle>
+        <UpgradeName>Inventory\Tablets\Tablet2</UpgradeName>
+      </Item>
+      <Item>
+        <Price>70</Price>
+        <ItemTitle>Cephalosporins</ItemTitle>
+        <UpgradeName>Inventory\Tablets\Tablet3</UpgradeName>
+      </Item>
+      <Item>
+        <Price>90</Price>
+        <ItemTitle>Metronidazole</ItemTitle>
+        <UpgradeName>Inventory\Tablets\Tablet4</UpgradeName>
+      </Item>
+      <Item>
+        <Price>110</Price>
+        <ItemTitle>Tetracycline</ItemTitle>
+        <UpgradeName>Inventory\Tablets\Tablet5</UpgradeName>
+      </Item>
+    </Tablets>
+    <Spikes>
+      <Item>
+        <Price>50</Price>
+        <ItemTitle>Spike 1</ItemTitle>
+        <UpgradeName>Inventory\Spikes\Spike1</UpgradeName>
+      </Item>
+      <Item>
+        <Price>80</Price>
+        <ItemTitle>Spike 2</ItemTitle>
+        <UpgradeName>Inventory\Spikes\Spike2</UpgradeName>
+      </Item>
+      <Item>
+        <Price>120</Price>
+        <ItemTitle>Spike 3</ItemTitle>
+        <UpgradeName>Inventory\Spikes\Spike3</UpgradeName>
+      </Item>
+      <Item>
+        <Price>160</Price>
+        <ItemTitle>Spike 4</ItemTitle>
+        <UpgradeName>Inventory\Spikes\Spike4</UpgradeName>
+      </Item>
+    </Spikes>
+    <FrontWeapons>
+      <Item>
+        <Price>40</Price>
+        <ItemTitle>Plazma 1</ItemTitle>
+        <UpgradeName>Weapons\FrontWeapons\Weapon1</UpgradeName>
+      </Item>
+      <Item>
+        <Price>60</Price>
+        <ItemTitle>Plazma 2</ItemTitle>
+        <UpgradeName>Weapons\FrontWeapons\Weapon2</UpgradeName>
+      </Item>
+      <Item>
+        <Price>100</Price>
+        <ItemTitle>Plazma 3</ItemTitle>
+        <UpgradeName>Weapons\FrontWeapons\Weapon3</UpgradeName>
+      </Item>
+      <Item>
+        <Price>150</Price>
+        <ItemTitle>Plazma 4</ItemTitle>
+        <UpgradeName>Weapons\FrontWeapons\Weapon4</UpgradeName>
+      </Item>
+    </FrontWeapons>
+  </Asset>
+</XnaContent>

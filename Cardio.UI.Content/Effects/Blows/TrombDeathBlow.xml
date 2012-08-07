@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Particles.BlowEffectMetadata">
+    <PartVelocity>20</PartVelocity>
+    <Law>0</Law>
+    <MovingPartsTextureName>Textures\Particles\Damage\Default</MovingPartsTextureName>
+    <MovingPartsFramesCount>8</MovingPartsFramesCount>
+    <MovingPartsDispertion>50</MovingPartsDispertion>
+    <MovingPartsIntervalBottom>70</MovingPartsIntervalBottom>
+    <MovingPartsIntervalTop>100</MovingPartsIntervalTop>
+    <MaxMovingParts>50</MaxMovingParts>
+    <MinMovingParts>20</MinMovingParts>
+    <AreMovingPartsLooped>false</AreMovingPartsLooped>
+    <CenterTextureName>Textures\Particles\Damage\Default</CenterTextureName>
+    <CenterFrameCount>8</CenterFrameCount>
+    <CenterInterval>70</CenterInterval>
+    <IsCenterLooped>true</IsCenterLooped>
+    <Type>TrombDeathBlow</Type>
+  </Asset>
+</XnaContent>

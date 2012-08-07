@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Components.ShopItemMetadata">
+    <Price>50</Price>
+    <ItemTitle>base nanobot body</ItemTitle>
+    <UpgradeName>Bodies\Body1</UpgradeName>
+  </Asset>
+</XnaContent>

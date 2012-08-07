@@ -1,0 +1,295 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D03E885D-FE2F-44EB-8094-BD5EEB5B171A/d:Characters/d:Player/d:Weapons/f:Weapon.cs" caret="4504" fromTop="34" />
+      <File id="D03E885D-FE2F-44EB-8094-BD5EEB5B171A/d:Components/f:LevelShopItem.cs" caret="1253" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False" />
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@Cardio.Phone.Shared.Persistance.SavedGame">
+      <Item value="Save`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="_game" priority="61" />
+      <Item value="GameState`0" priority="123" />
+      <Item value="Game" priority="216" />
+      <Item value="this" priority="30" />
+      <Item value="virtual" priority="154" />
+      <Item value="IEnumerable" priority="56" />
+      <Item value="var" priority="340" />
+      <Item value="new" priority="464" />
+      <Item value="List" priority="89" />
+      <Item value="BaseBullet`0" priority="92" />
+      <Item value="bullet" priority="242" />
+      <Item value="public" priority="803" />
+      <Item value="override" priority="123" />
+      <Item value="Vector2" priority="55" />
+      <Item value="MainWeaponLevel1" priority="27" />
+      <Item value="Weapon`0" priority="30" />
+      <Item value="MainWeaponLevel2" priority="25" />
+      <Item value="GamePadButtons`0" priority="62" />
+      <Item value="ButtonState`0" priority="30" />
+      <Item value="#region" priority="30" />
+      <Item value="#endregion" priority="30" />
+      <Item value="private" priority="217" />
+      <Item value="GamePadState`0" priority="30" />
+      <Item value="InventoryItem`0" priority="30" />
+      <Item value="int" priority="61" />
+      <Item value="Tablet`0" priority="123" />
+      <Item value="void" priority="185" />
+      <Item value="Use" priority="30" />
+      <Item value="TabletUse`0" priority="31" />
+      <Item value="ObstacleGameObject`0" priority="30" />
+      <Item value="Enemies" priority="30" />
+      <Item value="foreach" priority="61" />
+      <Item value="const" priority="30" />
+      <Item value="Damage" priority="92" />
+      <Item value="damage" priority="30" />
+      <Item value="static" priority="123" />
+      <Item value="SoundEffect`0" priority="61" />
+      <Item value="content" priority="30" />
+      <Item value="using" priority="119" />
+      <Item value="Cardio" priority="89" />
+      <Item value="Shared" priority="108" />
+      <Item value="Phone.Shared" priority="78" />
+      <Item value="Extensions" priority="80" />
+      <Item value="gameState" priority="185" />
+      <Item value="e" priority="61" />
+      <Item value="Vector2`0" priority="61" />
+      <Item value="playerPosition" priority="30" />
+      <Item value="damageDistance" priority="25" />
+      <Item value="enemies" priority="30" />
+      <Item value="enemy" priority="57" />
+      <Item value="DamageTakenEventArgs" priority="27" />
+      <Item value="TabletMetadata`0" priority="92" />
+      <Item value="string" priority="61" />
+      <Item value="Tablet" priority="123" />
+      <Item value="Medcit`0" priority="30" />
+      <Item value="game" priority="403" />
+      <Item value="if" priority="216" />
+      <Item value="enemyis" priority="61" />
+      <Item value="UseTabletScript" priority="28" />
+      <Item value="Tablets" priority="92" />
+      <Item value="List&lt;LevelShopItem&gt;" priority="27" />
+      <Item value="tablet" priority="61" />
+      <Item value="tablets" priority="30" />
+      <Item value="TabletShopItem`0" priority="30" />
+      <Item value="Medcits" priority="30" />
+      <Item value="MedcitShopItem`0" priority="30" />
+      <Item value="T`0" priority="91" />
+      <Item value="event" priority="61" />
+      <Item value="Action`0" priority="31" />
+      <Item value="protected" priority="61" />
+      <Item value="handler" priority="61" />
+      <Item value="null" priority="248" />
+      <Item value="item" priority="30" />
+      <Item value="SpriteBatch`0" priority="30" />
+      <Item value="SpriteBatch" priority="216" />
+      <Item value="EventHandler`0" priority="31" />
+      <Item value="object" priority="30" />
+      <Item value="EventArgs`0" priority="30" />
+      <Item value="Confirm" priority="30" />
+      <Item value="sender" priority="30" />
+      <Item value="DrawRectangle" priority="154" />
+      <Item value="Rectangle" priority="27" />
+      <Item value="width" priority="92" />
+      <Item value="height" priority="92" />
+      <Item value="VertexPositionColorTexture`0" priority="30" />
+      <Item value="Color`0" priority="61" />
+      <Item value="DrawColor" priority="61" />
+      <Item value="Color" priority="27" />
+      <Item value="Texture" priority="30" />
+      <Item value="Func" priority="31" />
+      <Item value="String`0" priority="92" />
+      <Item value="return" priority="185" />
+      <Item value="OnNeedDisplayText`0" priority="30" />
+      <Item value="Item" priority="30" />
+      <Item value="text" priority="30" />
+      <Item value="Fonts`0" priority="30" />
+      <Item value="OkButton" priority="123" />
+      <Item value="GrowingMenuEntry" priority="55" />
+      <Item value="CancelButton" priority="92" />
+      <Item value="bool" priority="30" />
+      <Item value="IsShown" priority="61" />
+      <Item value="true" priority="30" />
+      <Item value="false" priority="30" />
+      <Item value="LevelShopItem`0" priority="29" />
+      <Item value="ConfirmationDialog" priority="30" />
+      <Item value="_dialog" priority="92" />
+      <Item value="ConfirmationDialog&lt;LevelShopItem&gt;" priority="27" />
+      <Item value="Cache" priority="123" />
+      <Item value="DrawableGameObject`0" priority="30" />
+      <Item value="obj" priority="61" />
+      <Item value="GameCache" priority="27" />
+      <Item value="Services" priority="30" />
+      <Item value="cach" priority="30" />
+      <Item value="FreezableBase`0" priority="30" />
+      <Item value="GameCache`0" priority="91" />
+      <Item value="cache" priority="61" />
+      <Item value="System" priority="29" />
+      <Item value="Linq" priority="26" />
+      <Item value="b" priority="30" />
+      <Item value="BulletAssetName" priority="62" />
+      <Item value="GetBulletFromCache`0" priority="30" />
+      <Item value="Phone" priority="26" />
+      <Item value="Game`0" priority="30" />
+      <Item value="GetBullet`0" priority="185" />
+      <Item value="position" priority="62" />
+      <Item value="NanobotBullet`0" priority="30" />
+      <Item value="bullets" priority="30" />
+      <Item value="List&lt;DrawableGameObject&gt;" priority="27" />
+      <Item value="AssetName" priority="31" />
+      <Item value="Unload`0" priority="30" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Game">
+      <Item value="Services" priority="188" />
+      <Item value="Components" priority="27" />
+      <Item value="Content" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GameServiceContainer">
+      <Item value="GetService`1" priority="107" />
+      <Item value="GetService`0" priority="53" />
+      <Item value="AddService`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="54" />
+      <Item value="All`1" priority="27" />
+      <Item value="Select`2" priority="55" />
+      <Item value="Where`1" priority="27" />
+      <Item value="Count" priority="27" />
+      <Item value="Clear`0" priority="27" />
+      <Item value="Remove`0" priority="27" />
+      <Item value="OfType`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Vector2">
+      <Item value="Add`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Input.Keys">
+      <Item value="Back" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Input.GamePad">
+      <Item value="GetState`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Input.GamePadState">
+      <Item value="Buttons" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Input.GamePadButtons">
+      <Item value="Back" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Input.ButtonState">
+      <Item value="Pressed" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToArray`1" priority="26" />
+      <Item value="GetEnumerator`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerator`1">
+      <Item value="Current" priority="53" />
+      <Item value="MoveNext`0" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Content.ContentManager">
+      <Item value="Load`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Cardio.Phone.Shared.Core.GameState">
+      <Item value="Level" priority="54" />
+      <Item value="Player" priority="53" />
+      <Item value="Camera" priority="54" />
+      <Item value="Inventory" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Cardio.Phone.Shared.Levels.Level">
+      <Item value="AddEnemy`0" priority="26" />
+      <Item value="Enemies" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Cardio.Phone.Shared.Characters.ObstacleGameObject">
+      <Item value="WorldPosition" priority="26" />
+      <Item value="Damage`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Cardio.Phone.Shared.Characters.Player.IPlayer">
+      <Item value="WorldPosition" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Cardio.Phone.Shared.Components.ICamera2D">
+      <Item value="ViewportWidth" priority="53" />
+      <Item value="ViewportHeight" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Vector2">
+      <Item value="X" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Cardio.Phone.Shared.Inventory.Tablet">
+      <Item value="Damage" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Cardio.Phone.Shared.Inventory.TabletMetadata">
+      <Item value="Damage" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Cardio.Phone.Shared.Inventory.Level.InventoryService">
+      <Item value="ActiveItemExistsAt`0" priority="26" />
+      <Item value="SetReuseble`0" priority="27" />
+      <Item value="Tablet" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Cardio.Phone.Shared.Inventory.Medcit">
+      <Item value="FromMetadata`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Cardio.Phone.Shared.Components.LevelShopMetadata">
+      <Item value="Tablets" priority="55" />
+      <Item value="Medcits" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Cardio.Phone.Shared.Components.LevelShop">
+      <Item value="Tablets" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.SpriteBatch">
+      <Item value="Begin`0" priority="26" />
+      <Item value="End`0" priority="26" />
+      <Item value="Dispose`0" priority="26" />
+      <Item value="Draw`0" priority="22" />
+      <Item value="DrawString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Rectangle">
+      <Item value="X" priority="26" />
+      <Item value="Y" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Cardio.Phone.Shared.Fonts">
+      <Item value="Tutorial" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Color">
+      <Item value="White" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Cardio.Phone.Shared.Screens.GrowingMenuEntry">
+      <Item value="Initialize`0" priority="53" />
+      <Item value="Position" priority="53" />
+      <Item value="Selected" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Cardio.Phone.Shared.GameCache">
+      <Item value="Cache" priority="26" />
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Cardio.Phone.Shared.Core.DrawableGameObject">
+      <Item value="AssetName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Cardio.Phone.Shared.Projectiles.BaseBullet">
+      <Item value="WorldCollisionRectangle" priority="26" />
+      <Item value="WorldPosition" priority="22" />
+      <Item value="Unload`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,564 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Levels.LevelMetadata">
+    <Name>Tutorial</Name>
+    <Background>Backgrounds\Default</Background>
+    <Melody>Sounds\Melody1Level1</Melody>
+    <Distance>17500</Distance>
+    <Enemies>
+      <!--первый пак-->
+      <Item>
+        <Position>1300 70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>1350 70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>1400 70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>1450 70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>1900 -70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>1950 -70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>2000 -70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>2050 -70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>2300 0</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>2350 0</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>2400 0</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>2450 0</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      
+      <!--второй пак-->
+      
+      <Item>
+        <Position>3300 0</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>3320 35</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>3340 70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>3360 105</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>3500 0</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>3520 -35</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>3540 -70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>3560 -105</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>3800 0</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>3820 -45</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>3820 45</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      
+      <!--третий пак-->
+      <Item>
+        <Position>6000 0</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>6080 -35</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>6140 -70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>6080 35</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>6140 70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>6500 30</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>6580 -5</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>6640 -40</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>6580 65</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>6640 100</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      
+      <Item>
+        <Position>7000 -30</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>7080 -65</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>7140 -100</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>7080 5</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>7140 40</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>7500 0</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>7580 15</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>7640 -15</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>7740 30</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>7820 -30</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      
+      <!--четвертый пак-->
+      
+      <Item>
+        <Position>8500 0</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>8520 35</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>8520 -35</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>8540 70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>8540 -70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>8560 105</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>8560 -105</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>9000 20</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>9020 55</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>9020 -15</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>9040 90</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>9040 -50</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>9060 125</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>9060 -85</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>9500 -20</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>9520 15</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>9520 -55</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>9540 50</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>9540 -90</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>9560 85</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>9560 -125</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      
+      <!--пятый пак-->
+
+      <Item>
+        <Position>10800 0</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>10880 -35</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>10940 -70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>10880 35</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>10940 70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>11800 0</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>11880 -35</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>11940 -70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>11880 35</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>11940 70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      
+      <!--шестой пак-->
+
+      <Item>
+        <Position>12500 -120</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>12600 -80</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>12700 -40</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>12800 0</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>12900 40</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>13000 80</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>13100 120</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>13400 120</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>13500 80</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>13600 40</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>13700 0</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>13800 -40</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>13900 -80</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>14000 -120</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+
+      <!--седьмой пак-->
+      <Item>
+        <Position>14940 85</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>15000 50</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>14940 15</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      
+      <Item>
+        <Position>15100 65</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>15140 100</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>15100 135</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>15050 -25</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>15090 -60</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>15050 -95</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      
+      <!--восьмой пак-->
+
+      <Item>
+        <Position>15940 55</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>16000 20</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>15940 -15</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>16100 35</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>16140 70</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>16100 105</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>16050 -55</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>16090 -90</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>16050 -125</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      
+      
+      <!--девятый пак-->
+
+      <Item>
+        <Position>16940 115</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>17000 80</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>16940 45</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>17100 95</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>17140 130</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>17100 165</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>17050 5</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>17090 -30</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      <Item>
+        <Position>17050 -65</Position>
+        <EnemyType>AmorphicMicrob</EnemyType>
+      </Item>
+      
+    </Enemies>
+    
+    <Obstacles>
+      <Item>
+        <Position>5000 -90</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+      
+      <Item>
+        <Position>10500 -190</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>11500 0</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>14500 -90</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>14700 -180</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>14600 20</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>15500 -90</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+      
+      <Item>
+        <Position>16500 -90</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+
+
+    </Obstacles>
+    
+    <Bosses>
+    </Bosses>
+
+    <Messages>
+     
+    </Messages>
+  </Asset>
+</XnaContent>

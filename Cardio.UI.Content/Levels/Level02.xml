@@ -1,0 +1,526 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="Cardio.Phone.Shared.Levels.LevelMetadata">
+    <Name>Treatment</Name>
+    <Background>Backgrounds\Background2</Background>
+    <Melody>Sounds\Melody03</Melody>
+    <Distance>16000</Distance>
+    <Enemies>
+      <!-->Первый пак-->
+      
+      <Item>
+        <Position>1500 125</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>1570 175</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>      
+      <Item>
+        <Position>1640 125</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>1710 175</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>1770 150</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      
+      <!-->Второй пак-->
+
+      <Item>
+        <Position>2500 -175</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>2570 -125</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>2640 -175</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>2710 -125</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>2770 -150</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+
+      <!-->Третий пак-->
+
+      <Item>
+        <Position>4100 0</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>4070 -60</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>4140 -40</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>4080 -180</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>4105 110</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>4100 -120</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>4070 30</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>4070 -100</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>4100 160</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>4080 20</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>4000 23</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>4100 23</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>4000 -23</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>4100 -23</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+
+      <!-->Четвертый пак-->
+
+      <Item>
+        <Position>5200 -150</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+      <Item>
+        <Position>5200 40</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+      <Item>
+        <Position>5320 -150</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+      <Item>
+        <Position>5320 40</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+
+      <!-->Пятый пак-->
+
+      <Item>
+        <Position>6400 -170</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+      <Item>
+        <Position>6600 -170</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>6460 0</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>6540 0</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>6620 0</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>6700 0</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item> 
+      
+      <Item>
+        <Position>6400 130</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+      <Item>
+        <Position>6600 130</Position>
+        <EnemyType>Enemy3</EnemyType>
+      </Item>
+
+      <!-->Шестой пак-->
+
+      <Item>
+        <Position>7700 65</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>7700 -65</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>7700 -160</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>7700 160</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>7750 65</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>7710 95</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>7710 35</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+     
+      <Item>
+        <Position>7750 -65</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>7710 -95</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>7710 -35</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+     
+      <Item>
+        <Position>7750 -160</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>7710 -190</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>7710 -130</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+     
+      <Item>
+        <Position>7750 160</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>7710 190</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>7710 130</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+
+      <!-->Седьмой пак-->
+      
+      <Item>
+        <Position>8600 0</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>8600 -5</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>8600 -10</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>8600 -15</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>8605 0</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>8605 -5</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>8605 -10</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>8605 -15</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>8610 0</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>8610 -5</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>8610 -10</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>8610 -15</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>8615 0</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>8615 -5</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>8615 -10</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+      <Item>
+        <Position>8615 -15</Position>
+        <EnemyType>Glowing</EnemyType>
+      </Item>
+
+      <!-->Восьмой пак-->
+
+      <Item>
+        <Position>10750 160</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>10710 190</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>10710 130</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>10850 160</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>10810 190</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>10810 130</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>11250 -160</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11210 -190</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11210 -130</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11350 -160</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11310 -190</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11310 -130</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>11750 0</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11710 -30</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11710 30</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11850 0</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11810 -30</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+      <Item>
+        <Position>11810 30</Position>
+        <EnemyType>Microb</EnemyType>
+      </Item>
+
+      <!-->Девятый пак-->
+
+      <Item>
+        <Position>12500 -60</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>12550 -30</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>12600 0</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>12550 30</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>12500 60</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      
+      <!-->Десятый пак-->
+
+      <Item>
+        <Position>13500 -160</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>13550 -130</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>13600 -100</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>13650 -70</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>13700 -40</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+
+      <!-->Одинадцатый пак-->
+      
+      <Item>
+        <Position>14500 160</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>14550 130</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>14600 100</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>14650 70</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      <Item>
+        <Position>14700 40</Position>
+        <EnemyType>Enemy1</EnemyType>
+      </Item>
+      
+    </Enemies>
+    
+    <Obstacles>
+      
+      <Item>
+        <Position>1000 -250</Position>
+        <EnemyType>Thrombus1</EnemyType>
+      </Item>
+      
+      <Item>
+        <Position>2000 50</Position>
+        <EnemyType>Thrombus1</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>3200 -90</Position>
+        <EnemyType>Thrombus1</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>7200 -90</Position>
+        <EnemyType>Thrombus1</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>8400 50</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+      <Item>
+        <Position>8400 -190</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+      <Item>
+        <Position>8400 -40</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>10000 20</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+      <Item>
+        <Position>10000 -190</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+      <Item>
+        <Position>10000 -40</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+      <Item>
+        <Position>10000 110</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+
+      <Item>
+        <Position>15500 -110</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+      <Item>
+        <Position>15500 90</Position>
+        <EnemyType>Thrombus</EnemyType>
+      </Item>
+ 
+      
+    </Obstacles>
+    
+    <Bosses>
+    </Bosses>
+
+    <Messages>
+    </Messages>
+  </Asset>
+</XnaContent>

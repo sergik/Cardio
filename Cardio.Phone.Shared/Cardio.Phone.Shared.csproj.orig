@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{D03E885D-FE2F-44EB-8094-BD5EEB5B171A}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">Windows Phone</Platform>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Cardio.Phone.Shared</RootNamespace>
+    <AssemblyName>Cardio.Phone.Shared</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows Phone</XnaPlatform>
+    <XnaProfile>Reach</XnaProfile>
+    <XnaCrossPlatformGroupID>876e27f3-f70e-498b-b974-89e7ee00d951</XnaCrossPlatformGroupID>
+    <XnaOutputType>Library</XnaOutputType>
+    <XnaRefreshLevel>1</XnaRefreshLevel>
+    <XapFilename Condition="$(XnaOutputType)=='Game'">$(AssemblyName).xap</XapFilename>
+    <SilverlightManifestTemplate Condition="$(XnaOutputType)=='Game'">Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <XnaWindowsPhoneManifestTemplate Condition="$(XnaOutputType)=='Game'">Properties\WMAppManifest.xml</XnaWindowsPhoneManifestTemplate>
+    <TileImage Condition="$(XnaOutputType)=='Game'">Background.png</TileImage>
+    <TileTitle Condition="$(XnaOutputType)=='Game'">$(AssemblyName)</TileTitle>
+    <Thumbnail>PhoneGameThumb.png</Thumbnail>
+    <SupportedCultures />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|Windows Phone' ">
+    <OutputPath>bin\Windows Phone\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <DefineConstants>TRACE;WINDOWS_PHONE</DefineConstants>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|Windows Phone' ">
+    <OutputPath>bin\Windows Phone\Debug</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <DefineConstants>DEBUG;TRACE;WINDOWS_PHONE</DefineConstants>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Background.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </None>
+    <None Include="PhoneGameThumb.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </None>
+    <None Include="Properties\AppManifest.xml">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </None>
+    <None Include="Properties\WMAppManifest.xml">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Actions\ReactionProgress.cs" />
+    <Compile Include="Animations\AnimatedObject.cs" />
+    <Compile Include="Animations\AnimatedObjectMetadata.cs" />
+    <Compile Include="Animations\Animation.cs" />
+    <Compile Include="Animations\AnimationMetadata.cs" />
+    <Compile Include="Backgrounds\BackgroundController.cs" />
+    <Compile Include="Backgrounds\BackgroundMetadata.cs" />
+    <Compile Include="Backgrounds\Parallax\ParallaxLayer.cs" />
+    <Compile Include="Backgrounds\Parallax\ParallaxLayerMetadata.cs" />
+    <Compile Include="Backgrounds\ScrollingBackground.cs" />
+    <Compile Include="Backgrounds\StaticBackground.cs" />
+    <Compile Include="GameCache.cs" />
+    <Compile Include="Characters\Player\Bodies\Body.cs" />
+    <Compile Include="Characters\Player\Bodies\BodyMetadata.cs" />
+    <Compile Include="Caching\TextureCacher.cs" />
+    <Compile Include="Characters\Bosses\Boss.cs" />
+    <Compile Include="Characters\Bosses\BossMetadata.cs" />
+    <Compile Include="Characters\CloseCombatEnemyMetadata.cs" />
+    <Compile Include="Characters\EnemyMetadata.cs" />
+    <Compile Include="Characters\Player\Spikes\Spike.cs" />
+    <Compile Include="Components\BodyShopItem.cs" />
+    <Compile Include="Components\ConfirmationDialog.cs" />
+    <Compile Include="Components\GunShopItem.cs" />
+    <Compile Include="Components\LevelSelector.cs" />
+    <Compile Include="Components\LevelShop.cs" />
+    <Compile Include="Components\LevelShopItem.cs" />
+    <Compile Include="Components\MedcitShopItem.cs" />
+    <Compile Include="Components\ShieldShopItem.cs" />
+    <Compile Include="Components\ShopItemMetadata.cs" />
+    <Compile Include="Components\LevelShopMetadata.cs" />
+    <Compile Include="Components\TabletShopItem.cs" />
+    <Compile Include="Core\PositionedDummy.cs" />
+    <Compile Include="Core\IPausable.cs" />
+    <Compile Include="Effects\ClickEfect.cs" />
+    <Compile Include="Effects\ClickEffectMetadata.cs" />
+    <Compile Include="Effects\UseEffect.cs" />
+    <Compile Include="EnemyMapper.cs" />
+    <Compile Include="Characters\AliveGameObjectMetadata.cs" />
+    <Compile Include="Characters\ObstacleGameObject.cs" />
+    <Compile Include="Characters\ObstacleMetadata.cs" />
+    <Compile Include="Characters\CloseCombatEnemy.cs" />
+    <Compile Include="Characters\Glowing.cs" />
+    <Compile Include="Characters\Ranged\IRangeAttacker.cs" />
+    <Compile Include="Characters\Ranged\IRangeEnemy.cs" />
+    <Compile Include="Characters\Microb.cs" />
+    <Compile Include="Characters\Player\GroupPositionSwitch.cs" />
+    <Compile Include="Characters\Player\IPlayer.cs" />
+    <Compile Include="Characters\Player\Nanobot.cs" />
+    <Compile Include="Characters\Player\NanobotGroup.cs" />
+    <Compile Include="Characters\Player\Player.cs" />
+    <Compile Include="Characters\Ranged\RangeEnemy.cs" />
+    <Compile Include="Characters\Ranged\RangeEnemyMetadata.cs" />
+    <Compile Include="Components\Camera2D.cs" />
+    <Compile Include="Components\GameOver.cs" />
+    <Compile Include="Components\ICamera2D.cs" />
+    <Compile Include="Components\LevelFinished.cs" />
+    <Compile Include="Controls\Control.cs" />
+    <Compile Include="Controls\TextBox.cs" />
+    <Compile Include="Core\Alive\AliveGameObject.cs" />
+    <Compile Include="Core\Alive\DamageTakenEventArgs.cs" />
+    <Compile Include="Core\Alive\DamageTakenEventHandler.cs" />
+    <Compile Include="Core\Alive\DeathAnimation.cs" />
+    <Compile Include="Core\Alive\DieEventArgs.cs" />
+    <Compile Include="Core\Alive\DieEventHandler.cs" />
+    <Compile Include="Core\Alive\IAlive.cs" />
+    <Compile Include="Core\Alive\IIntelligent.cs" />
+    <Compile Include="Core\Alive\IPlayerAttackTarget.cs" />
+    <Compile Include="Core\CardioGameComponent.cs" />
+    <Compile Include="Core\AttachableGameObject.cs" />
+    <Compile Include="Core\ComboController.cs" />
+    <Compile Include="Core\ComboLevelMelody.cs" />
+    <Compile Include="Core\ContentObject.cs" />
+    <Compile Include="Core\DrawableGameObject.cs" />
+    <Compile Include="Core\FreezableBase.cs" />
+    <Compile Include="Core\GameEntity.cs" />
+    <Compile Include="Core\GameState.cs" />
+    <Compile Include="Core\ICollidable.cs" />
+    <Compile Include="Core\IFreezable.cs" />
+    <Compile Include="Core\IGameEntity.cs" />
+    <Compile Include="Core\IObstacle.cs" />
+    <Compile Include="Core\IParticleEmitter.cs" />
+    <Compile Include="Core\IPositioned.cs" />
+    <Compile Include="Core\IShielded.cs" />
+    <Compile Include="Core\ThinkCloud.cs" />
+    <Compile Include="Core\UnableToModifyFrozenObjectException.cs" />
+    <Compile Include="Easing\EasingFunctionsManager.cs" />
+    <Compile Include="Easing\ExpEasingTransformer.cs" />
+    <Compile Include="Easing\IEasingTransformer.cs" />
+    <Compile Include="Easing\ParabolicEasingTransform.cs" />
+    <Compile Include="Exceptions\AssetLoadingException.cs" />
+    <Compile Include="Exceptions\ComponentIsNotInitializedException.cs" />
+    <Compile Include="Exceptions\UnableToModifyStateAfterInitializationException.cs" />
+    <Compile Include="Extensions\EventHandlerExtension.cs" />
+    <Compile Include="Extensions\GameServiceContainerExtension.cs" />
+    <Compile Include="Extensions\ListExtension.cs" />
+    <Compile Include="Fonts.cs" />
+    <Compile Include="Framerate.cs" />
+    <Compile Include="GUI\InputSequenceDisplay.cs" />
+    <Compile Include="GUI\LevelUI.cs" />
+    <Compile Include="GUI\ProgressBar.cs" />
+    <Compile Include="Heartbeat\HeartbeatComponent.cs" />
+    <Compile Include="Input\InputManager.cs" />
+    <Compile Include="Input\Matches\CoefficientTracker.cs" />
+    <Compile Include="Input\Matches\DefaultMatchStrategy.cs" />
+    <Compile Include="Input\Matches\MatchStrategy.cs" />
+    <Compile Include="Input\Matches\TouchSequenceMatchStrategy.cs" />
+    <Compile Include="Input\TouchSequenceEntry.cs" />
+    <Compile Include="Input\Touch\ButtonTouch.cs" />
+    <Compile Include="Input\Touch\ButtonType.cs" />
+    <Compile Include="Input\Touch\ITouchService.cs" />
+    <Compile Include="Input\Touch\TouchService.cs" />
+    <Compile Include="Input\Touch\TouchType.cs" />
+    <Compile Include="Input\WindowsInputHandler.cs" />
+    <Compile Include="Inventory\InventoryContentBuilder.cs" />
+    <Compile Include="Inventory\InventoryEntry.cs" />
+    <Compile Include="Inventory\InventoryItem.cs" />
+    <Compile Include="Inventory\InventoryItemInstance.cs" />
+    <Compile Include="Inventory\InventoryMapping.cs" />
+    <Compile Include="Inventory\InventoryMappingService.cs" />
+    <Compile Include="Inventory\IPickable.cs" />
+    <Compile Include="Inventory\Items.cs" />
+    <Compile Include="Inventory\Level\InventoryComponent.cs" />
+    <Compile Include="Inventory\Level\InventorySlot.cs" />
+    <Compile Include="Inventory\Level\InventoryService.cs" />
+    <Compile Include="Inventory\Medcit.cs" />
+    <Compile Include="Inventory\MedcitMetadata.cs" />
+    <Compile Include="Inventory\PickableGameObject.cs" />
+    <Compile Include="Inventory\ResourceBuilder.cs" />
+    <Compile Include="Characters\Player\Spikes\SpikeMetadata.cs" />
+    <Compile Include="Inventory\Tablet.cs" />
+    <Compile Include="Inventory\TabletMetadata.cs" />
+    <Compile Include="Levels\GameStory.cs" />
+    <Compile Include="Levels\GameStoryEntry.cs" />
+    <Compile Include="Levels\GameStoryEntryMetadata.cs" />
+    <Compile Include="Levels\GameStoryMetadata.cs" />
+    <Compile Include="Levels\LevelMetadata.cs" />
+    <Compile Include="Levels\LevelSelectorMetadata.cs" />
+    <Compile Include="Levels\LevelState.cs" />
+    <Compile Include="Levels\LevelThumbailMetadata.cs" />
+    <Compile Include="Levels\LevelThumbnail.cs" />
+    <Compile Include="Levels\TextMetadata.cs" />
+    <Compile Include="Particles\BlowEffect.cs" />
+    <Compile Include="Particles\BlowEffectMetadata.cs" />
+    <Compile Include="Particles\IParticleBehavior.cs" />
+    <Compile Include="Particles\Particle.cs" />
+    <Compile Include="Particles\ParticleEffect.cs" />
+    <Compile Include="Persistance\SavedGame.cs" />
+    <Compile Include="Persistence\IPersistent.cs" />
+    <Compile Include="Projectiles\BaseBullet.cs" />
+    <Compile Include="Projectiles\Bullet.cs" />
+    <Compile Include="Projectiles\NanobotBullet.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomHelper.cs" />
+    <Compile Include="Rhythm\BeatMatchingController.cs" />
+    <Compile Include="Rhythm\BeatPattern.cs" />
+    <Compile Include="Rhythm\BeatGenerators\BeatPatternGenerator.cs" />
+    <Compile Include="Rhythm\DelayedRhythmEntry.cs" />
+    <Compile Include="Rhythm\RhythmEngine.cs" />
+    <Compile Include="Rhythm\RhythmMelodyMetadata.cs" />
+    <Compile Include="Rhythm\RhythmMelodyPlayer.cs" />
+    <Compile Include="Actions\ActionCatalog.cs" />
+    <Compile Include="Actions\ActionReaction.cs" />
+    <Compile Include="Actions\PlayerAction.cs" />
+    <Compile Include="Actions\ReactionInvokedEventArgs.cs" />
+    <Compile Include="Actions\ReactionsCatalog.cs" />
+    <Compile Include="Actions\SceneActionMetadata.cs" />
+    <Compile Include="Levels\Level.cs" />
+    <Compile Include="Rhythm\BeatGenerators\TimeSequenceBeatPatternGenerator.cs" />
+    <Compile Include="Scenes\Scripts\GameScript.cs" />
+    <Compile Include="Scenes\Scripts\IGameScript.cs" />
+    <Compile Include="Screens\AlternativeMenuScreen.cs" />
+    <Compile Include="Screens\GameScreen.cs" />
+    <Compile Include="Screens\GrowingMenuEntry.cs" />
+    <Compile Include="Screens\InformativeLoadingScreen.cs" />
+    <Compile Include="Screens\LevelMenu\InventoryScreen.cs" />
+    <Compile Include="Screens\LevelMenu\LevelMenuScreen.cs" />
+    <Compile Include="Screens\LevelMenu\LevelSelectionScreen.cs" />
+    <Compile Include="Screens\LevelScreen.cs" />
+    <Compile Include="Screens\LoadingScreen.cs" />
+    <Compile Include="Screens\MainMenuScreen.cs" />
+    <Compile Include="Screens\MenuBackgroundComponent.cs" />
+    <Compile Include="Screens\MenuEntry.cs" />
+    <Compile Include="Screens\MenuScreen.cs" />
+    <Compile Include="Screens\PauseMenuScreen.cs" />
+    <Compile Include="Screens\ScreenLoadedEventArgs.cs" />
+    <Compile Include="Screens\ScreenManager.cs" />
+    <Compile Include="Screens\ScreenState.cs" />
+    <Compile Include="Screens\ShopScreen.cs" />
+    <Compile Include="Screens\TwitterAuthenticationScreen.cs" />
+    <Compile Include="Scripts\BossAttackScript.cs" />
+    <Compile Include="Scripts\CheckForPickableObjectsScript.cs" />
+    <Compile Include="Scripts\CircleMovementScript.cs" />
+    <Compile Include="Scripts\CloseCombatEnemyAttackScript.cs" />
+    <Compile Include="Scripts\ContinuousPlayerShootScript.cs" />
+    <Compile Include="Scripts\EvadeBossAttackScript.cs" />
+    <Compile Include="Scripts\GameEntityScript.cs" />
+    <Compile Include="Scripts\GameOverScript.cs" />
+    <Compile Include="Scripts\GenerateEnemiesScript.cs" />
+    <Compile Include="Scripts\HealPlayerScript.cs" />
+    <Compile Include="Scripts\LevelFinishedScript.cs" />
+    <Compile Include="Scripts\EvasionScript.cs" />
+    <Compile Include="Scripts\MoveNanobotScript.cs" />
+    <Compile Include="Scripts\MovePlayerScript.cs" />
+    <Compile Include="Scripts\PickObjectScript.cs" />
+    <Compile Include="Scripts\PlayerShootScript.cs" />
+    <Compile Include="Scripts\RangeEnemyAttackScript.cs" />
+    <Compile Include="Scripts\Script.cs" />
+    <Compile Include="Scripts\SkipTutorialScript.cs" />
+    <Compile Include="Scripts\GroupSwitchNearBossScript.cs" />
+    <Compile Include="Scripts\TwitchingScript.cs" />
+    <Compile Include="Scripts\CircleScriptMetadata.cs" />
+    <Compile Include="Scripts\UsePlayerShieldScript.cs" />
+    <Compile Include="Scripts\UseTabletScript.cs" />
+    <Compile Include="Characters\Player\Shields\Shield.cs" />
+    <Compile Include="Characters\Player\Shields\ShieldMetadata.cs" />
+    <Compile Include="Sounds\AudioObject.cs" />
+    <Compile Include="Sounds\Sound.cs" />
+    <Compile Include="Sounds\SoundManager.cs" />
+    <Compile Include="Sounds\SoundRule.cs" />
+    <Compile Include="TestData.cs" />
+    <Compile Include="Text\Fonts.cs" />
+    <Compile Include="Text\TextRenderer.cs" />
+    <Compile Include="Thrombi\Thrombus.cs" />
+    <Compile Include="Thrombi\ThrombusMetadata.cs" />
+    <Compile Include="Tutorial\LevelText.cs" />
+    <Compile Include="Tutorial\TutorialScript.cs" />
+    <Compile Include="Tutorial\TutorialScriptActivationScript.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Twitter\ITwitter.cs" />
+    <Compile Include="Characters\Player\Weapons\MainWeaponLevel1.cs" />
+    <Compile Include="Characters\Player\Weapons\MainWeaponLevel2.cs" />
+    <Compile Include="Characters\Player\Weapons\Weapon.cs" />
+    <Compile Include="Characters\Player\Weapons\WeaponMetadata.cs" />
+    <Compile Include="Characters\Player\Weapons\WeaponsFactory.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Inventory\Game\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="Microsoft.Xna.Framework.Avatar" />
+    <Reference Include="Microsoft.Xna.Framework.Game" />
+    <Reference Include="Microsoft.Xna.Framework.GamerServices" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics" />
+    <Reference Include="Microsoft.Xna.Framework.Input.Touch" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>
